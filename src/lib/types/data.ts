@@ -1,5 +1,12 @@
 export type CertType = "blue" | "red" | "infoSec";
 
+export type SkillLevel =
+  | "Novice"
+  | "Beginner"
+  | "Intermediate"
+  | "Advanced"
+  | "Expert";
+
 export type Certification = {
   id: number;
   slug: string;
@@ -16,7 +23,7 @@ export type Certification = {
   total_votes: number;
   market_presence: number; // 0.0 to 1.0
   cost_effectiveness: number; // 1.0 to 5.0
-  skill_level: "Novice" | "Beginner" | "Intermediate" | "Advanced" | "Expert";
+  skill_level: SkillLevel;
   quality: number; // 1.0 to 5.0
   satisfaction: number; // 1.0 to 5.0
   provider: {
