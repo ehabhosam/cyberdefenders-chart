@@ -1,0 +1,3837 @@
+{
+  "data": [
+    {
+      "id": 71,
+      "slug": "certified-security-operations-manager-csom",
+      "title": "Certified Security Operations Manager",
+      "abbreviation": "CSOM",
+      "description": "The Certified Security Operations Manager (CSOM) certification validates the knowledge and skills of security professionals who manage Security Operations Centers (SOCs). It focuses on establishing, maintaining, and leading effective security operations, SOC strategy, team management, and security intelligence.",
+      "image": "https://cyberdefenders.org/media/certifications/csom.png",
+      "url": "https://www.securityblue.team/certifications/certified-security-operations-manager-csom",
+      "cost": "£1,999",
+      "training_included": true,
+      "number_of_attempts": 2,
+      "job_roles_titles": [
+        "SOC Manager",
+        "Security Consultant",
+        "Security analysts",
+        "Senior Security Analysts",
+        "Security Managers",
+        "Heads of Security Operations",
+        "Directors of Security Operations"
+      ],
+      "cert_type": "blue",
+      "total_votes": 1,
+      "market_presence": 0.02,
+      "cost_effectiveness": 5.0,
+      "skill_level": "Intermediate",
+      "quality": 5.0,
+      "satisfaction": 4.33,
+      "provider": {
+        "name": "Security Blue Team",
+        "url": "https://www.securityblue.team/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Modern Security Operations",
+        "Building a Security Operations Team",
+        "Capability Development",
+        "Metrics, Maturity, and Measuring Success"
+      ],
+      "requirements_data": {
+        "knowledge": "Understanding of security operations, incident handling, team management, and security metrics",
+        "work_experience": "2+ years in security operations preferred",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "practical exam with scenario-based questions",
+        "duration": null,
+        "report_required": false
+      },
+      "valid_for": "No expiration date"
+    },
+    {
+      "id": 108,
+      "slug": "certified-junior-detection-engineer",
+      "title": "Certified Junior Detection Engineer",
+      "abbreviation": "CJDE",
+      "description": "The CJDE (Certified Junior Detection Engineer) course provides a pathway into detection engineering and cyber security operations, focusing on identifying, analysing, and responding to threats using detection tools and strategies. It is ideal for roles such as Junior Security Analysts, Detection Engineers, SIEM Administrators, Incident Response Analysts, and SOC Analysts, and is suited to individuals with foundational cyber security knowledge who wish to specialise in detection and response or enhance their existing skills.",
+      "image": "https://cyberdefenders.org/media/certifications/download.png",
+      "url": "https://www.securityblue.team/certifications/certified-junior-detection-engineer",
+      "cost": "£399.00",
+      "training_included": true,
+      "number_of_attempts": 2,
+      "job_roles_titles": [
+        "Incident responders",
+        "Threat Intelligence Analysts",
+        "Security Engineers",
+        "Detection Engineers",
+        "Security analysts"
+      ],
+      "cert_type": "blue",
+      "total_votes": 1,
+      "market_presence": 0.02,
+      "cost_effectiveness": 5.0,
+      "skill_level": "Beginner",
+      "quality": 5.0,
+      "satisfaction": 4.0,
+      "provider": {
+        "name": "Security Blue Team",
+        "url": "https://www.securityblue.team/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Threat intelligence integration",
+        "Yara & Sigma essentials",
+        "Zeek essentials",
+        "Detection rule creation & tuning",
+        "Network analysis & incident response",
+        "Linux, Windows, Python, Git basics",
+        "SIEM platforms (Splunk, Elastic, Graylog)"
+      ],
+      "requirements_data": {
+        "knowledge": "No strict prerequisites. A baseline knowledge of SOC workflows/security fundamentals is helpful but not required.",
+        "work_experience": "1-3 years experience",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "Practical and scenario-based",
+        "duration": "24 Hours",
+        "report_required": true
+      },
+      "valid_for": "doesn’t expire (“for life”)"
+    },
+    {
+      "id": 99,
+      "slug": "crest-registered-penetration-tester-crt",
+      "title": "CREST Registered Penetration Tester",
+      "abbreviation": "CRT",
+      "description": "The CREST Registered Penetration Tester (CRT) exam is an intermediate level certification recognised by Governments and regulators around the globe, including the UK National Cyber Security Centre (NCSC) for its CHECK scheme. It validates a practitioner's ability to conduct vulnerability assessments and penetration testing across networks, applications, infrastructure, and databases.",
+      "image": "https://cyberdefenders.org/media/certifications/crest.png",
+      "url": "https://www.crest-approved.org/skills-certifications-careers/crest-registered-penetration-tester/",
+      "cost": "$400",
+      "training_included": false,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "Vulnerability Assessor",
+        "Ethical Hacker",
+        "penetration testers",
+        "Information Security Analysts",
+        "security consultants"
+      ],
+      "cert_type": "red",
+      "total_votes": 1,
+      "market_presence": 0.06,
+      "cost_effectiveness": 4.0,
+      "skill_level": "Advanced",
+      "quality": 5.0,
+      "satisfaction": 4.33,
+      "provider": {
+        "name": "CREST",
+        "url": "https://www.crest-approved.org/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Reconnaissance & information gathering",
+        "Network mapping, filtering, and traffic analysis",
+        "Evaluating network services",
+        "Assessing databases",
+        "Identifying OS, infrastructure, and web application vulnerabilities"
+      ],
+      "requirements_data": {
+        "knowledge": "Strong understanding of penetration testing methodologies, network security assessment, web application security testing, Windows/Linux operating systems",
+        "work_experience": "At least 3 years (~6,000 hours) of penetration testing experience is recommended to qualify for CRT’s scope and proficiency",
+        "prior_courses_and_certifications": "Must hold CREST Practitioner Security Analyst (CPSA) certification before booking CRT exam"
+      },
+      "exam_details_data": {
+        "format": "multiple choice, short form and trophy answers.",
+        "duration": "2.5 hours",
+        "report_required": false
+      },
+      "valid_for": "3 years"
+    },
+    {
+      "id": 95,
+      "slug": "giac-reverse-engineering-malware-grem",
+      "title": "GIAC Reverse Engineering Malware",
+      "abbreviation": "GREM",
+      "description": "The GREM certification, offered by GIAC, validates expertise in reverse-engineering malware to understand its behavior, capabilities, and mitigation strategies. It equips professionals to analyze malicious code and defend against advanced threats in incident response and threat intelligence roles.",
+      "image": "https://cyberdefenders.org/media/certifications/GREM.png",
+      "url": "https://www.giac.org/certifications/reverse-engineering-malware-grem/",
+      "cost": "$999",
+      "training_included": false,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "security consultants",
+        "System and Network Administrators",
+        "Forensic investigators",
+        "Security Managers"
+      ],
+      "cert_type": "blue",
+      "total_votes": 2,
+      "market_presence": 0.04,
+      "cost_effectiveness": 2.0,
+      "skill_level": "Advanced",
+      "quality": 5.0,
+      "satisfaction": 3.83,
+      "provider": {
+        "name": "GIAC",
+        "url": "https://www.giac.org/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Windows Assembly Code Concepts for Reverse Engineering and Common Windows Malware Characteristics in Assembly",
+        "In-Depth Analysis of Malicious Executables and Self-Defending Malware",
+        "Analysis of Malicious Document Files, .NET programs, and Protected Executables",
+        "Malware Analysis Using Malware Code and Behavioral Analysis Fundamentals"
+      ],
+      "requirements_data": {
+        "knowledge": "Strong understanding of malware behavior, assembly language, debugger/disassembler usage, and memory analysis concepts.",
+        "work_experience": "2+ years in malware analysis, incident response, or related fields recommended.",
+        "prior_courses_and_certifications": "SANS FOR610: Reverse-Engineering Malware or equivalent experience recommended"
+      },
+      "exam_details_data": {
+        "format": "Proctored, open-book exam with multiple-choice and practical questions",
+        "duration": "3 hours",
+        "report_required": false
+      },
+      "valid_for": "4 years"
+    },
+    {
+      "id": 47,
+      "slug": "osce3",
+      "title": "OffSec Certified Expert 3",
+      "abbreviation": "OSCE3",
+      "description": "OSCE3 assesses advanced offensive security skills. It's rewarded after the successful completion of three courses: Advanced Web Attacks and Exploitation (WEB-300), Advanced Evasion Techniques and Breaching Defenses (PEN-300), and Windows User Mode Exploit Development (EXP-301). It validates expertise in web application security, penetration testing, and exploit development.",
+      "image": "https://cyberdefenders.org/media/certifications/offsec-certified-expert-3-osce3.webp",
+      "url": "https://www.offsec.com/certificates/osce3/",
+      "cost": "$4,649",
+      "training_included": true,
+      "number_of_attempts": 0,
+      "job_roles_titles": [
+        "Penetration Tester",
+        "Security Researcher",
+        "Exploit Developer",
+        "Red Team Specialist"
+      ],
+      "cert_type": "red",
+      "total_votes": 1,
+      "market_presence": 0.06,
+      "cost_effectiveness": 3.0,
+      "skill_level": "Expert",
+      "quality": 5.0,
+      "satisfaction": 4.33,
+      "provider": {
+        "name": "OffSec",
+        "url": "https://www.offsec.com/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Advanced Evasion Techniques and Breaching Defenses",
+        "Advanced Web Attacks and Exploitation",
+        "Windows User Mode Exploit Development"
+      ],
+      "requirements_data": {
+        "knowledge": "Advanced understanding of penetration testing, web attacks, and exploit development",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "Earned upon successful completion of OffSec's (WEB-300, PEN-300 & EXP-301) courses and their respective exams"
+      },
+      "exam_details_data": {
+        "format": "None",
+        "duration": "None",
+        "report_required": false
+      },
+      "valid_for": "No expiration date"
+    },
+    {
+      "id": 92,
+      "slug": "giac-certified-enterprise-defender-gced",
+      "title": "GIAC Certified Enterprise Defender",
+      "abbreviation": "GCED",
+      "description": "The GIAC Certified Enterprise Defender (GCED) certification builds on the security skills measured by the GIAC Security Essentials certification. It assesses more advanced, technical skills that are needed to defend the enterprise environment and protect an organization as a whole. GCED certification holders have validated knowledge and abilities in the areas of defensive network infrastructure, packet analysis, penetration testing, incident handling and malware removal.",
+      "image": "https://cyberdefenders.org/media/certifications/GCED.png",
+      "url": "https://www.giac.org/certifications/certified-enterprise-defender-gced/",
+      "cost": "$999",
+      "training_included": false,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "Incident responders",
+        "penetration testers",
+        "Security Operations Center engineers and analysts",
+        "Network Security Specialist"
+      ],
+      "cert_type": "blue",
+      "total_votes": 1,
+      "market_presence": 0.02,
+      "cost_effectiveness": 2.0,
+      "skill_level": "Advanced",
+      "quality": 5.0,
+      "satisfaction": 3.67,
+      "provider": {
+        "name": "GIAC",
+        "url": "https://www.giac.org/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Penetration testing; Digital forensics; Incident response",
+        "Network monitoring, forensics, and logging",
+        "Packet analysis; Intrusion analysis; Malware analysis",
+        "Network and cloud-based defensive infrastructure"
+      ],
+      "requirements_data": {
+        "knowledge": "Understanding of enterprise security tools and networks.",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "Multiple-choice Questions",
+        "duration": "3 hours",
+        "report_required": false
+      },
+      "valid_for": "4 Years"
+    },
+    {
+      "id": 43,
+      "slug": "investigating-windows-endpoints",
+      "title": "Investigating Windows Endpoints",
+      "abbreviation": "IWE",
+      "description": "IWE assesses skills in forensic investigation of Windows endpoints. It validates the ability to analyze event logs, registry data, evidence of execution, and other key aspects crucial for digital investigations.",
+      "image": "https://cyberdefenders.org/media/certifications/investigating-windows-endpoints-iwe.webp",
+      "url": "https://training.13cubed.com/investigating-windows-endpoints",
+      "cost": "$695",
+      "training_included": true,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "Digital Forensic Analyst",
+        "Incident Responder",
+        "Security Analyst",
+        "IT Forensics Specialist",
+        "SOC Analyst"
+      ],
+      "cert_type": "blue",
+      "total_votes": 1,
+      "market_presence": 0.02,
+      "cost_effectiveness": 5.0,
+      "skill_level": "Beginner",
+      "quality": 5.0,
+      "satisfaction": 4.0,
+      "provider": {
+        "name": "13Cubed",
+        "url": "https://training.13cubed.com/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Forensics and Investigation",
+        "Event and Log Analysis",
+        "Incident Response and Management",
+        "Threat Intelligence and Detection",
+        "Network and Traffic Analysis"
+      ],
+      "requirements_data": {
+        "knowledge": "Basic understanding of Windows 10/11",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "Knowledge Assessment",
+        "duration": "None",
+        "report_required": false
+      },
+      "valid_for": "No expiration date"
+    },
+    {
+      "id": 61,
+      "slug": "crtl",
+      "title": "Certified Red Team Lead",
+      "abbreviation": "CRTL",
+      "description": "RTO II is a continuation (not a replacement) of Red Team Ops and aims to build on its foundation.  The primary focus of this course is to provide more advanced OPSEC tactics and defence bypass strategies.\r\n\r\nStudents will:\r\n\r\nLearn how to build secure and resilient on-premise C2 infrastructure, using public cloud redirectors and HTTPS.\r\n\r\nGo deeper into C++ and C# programming with Windows APIs, leading into writing custom tooling for a variety of offensive actions including process injection, PPID spoofing, and command line spoofing.\r\n\r\nLearn how to clean up memory indicators of Cobalt Strike's Beacon, and leverage in-memory obfuscation to bypass some memory scanning techniques.\r\n\r\nEmploy strategies for enumerating, identifying, and exploiting weaknesses in Attack Surface Reduction and Windows Defender Application Control technologies.\r\n\r\nBypass AV and EDR agents by circumventing ETW, userland hooking, and kernel callbacks.",
+      "image": "https://cyberdefenders.org/media/certifications/CRTL.png",
+      "url": "https://training.zeropointsecurity.co.uk/courses/red-team-ops-ii",
+      "cost": "£399",
+      "training_included": true,
+      "number_of_attempts": 1,
+      "job_roles_titles": ["Red Team Specialist", "Red Team Operator"],
+      "cert_type": "red",
+      "total_votes": 2,
+      "market_presence": 0.12,
+      "cost_effectiveness": 3.0,
+      "skill_level": "Expert",
+      "quality": 5.0,
+      "satisfaction": 4.33,
+      "provider": {
+        "name": "Zero-Point Security",
+        "url": "https://training.zeropointsecurity.co.uk/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Engagement Planning and Reporting",
+        "Bypassing Defenses",
+        "Adversary Simulation",
+        "Command & Control",
+        "Active Directory Attack Lifecycle"
+      ],
+      "requirements_data": {
+        "knowledge": "",
+        "work_experience": "",
+        "prior_courses_and_certifications": ""
+      },
+      "exam_details_data": {
+        "format": "",
+        "duration": "",
+        "report_required": false
+      },
+      "valid_for": "No expiration date"
+    },
+    {
+      "id": 96,
+      "slug": "osstmm-professional-security-tester-opst",
+      "title": "OSSTMM Professional Security Tester",
+      "abbreviation": "OPST",
+      "description": "The \"OSSTMM Professional Security Tester\" training camp prepares participants for the basic knowledge of penetration testing for OPST certification. This course teaches about the OSSTMM methodology and how to apply it in security testing that complies with OSSTMM. The official OPST certification exam is organized by the Institute for Open Security and Methodology (ISECOM).",
+      "image": "https://cyberdefenders.org/media/certifications/opst-150x150.png",
+      "url": "https://www.isecom.org/certification.html",
+      "cost": "€499",
+      "training_included": true,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "Security Auditor",
+        "Security Tester",
+        "Network/System Administrator",
+        "penetration testers",
+        "security consultants"
+      ],
+      "cert_type": "red",
+      "total_votes": 1,
+      "market_presence": 0.06,
+      "cost_effectiveness": 5.0,
+      "skill_level": "Expert",
+      "quality": 5.0,
+      "satisfaction": 5.0,
+      "provider": {
+        "name": "ISECOM",
+        "url": "https://www.isecom.org/",
+        "image": "providers/isecom_logo.jpeg"
+      },
+      "domains_covered_titles": [
+        "Social Engineering",
+        "Physical Security Assessment",
+        "Human Security Testing",
+        "Network and System Penetration Testing",
+        "Security Testing Methodologies",
+        "Risk Assessment and Reporting",
+        "Telecommunications"
+      ],
+      "requirements_data": {
+        "knowledge": "Strong understanding of security testing methodologies, OSSTMM framework, and penetration testing techniques.",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "Recommended: CHA or OPSA certifications"
+      },
+      "exam_details_data": {
+        "format": "multiple choice, single answer, skills-based against a remote test network",
+        "duration": "3 hours",
+        "report_required": false
+      },
+      "valid_for": "Lifetime"
+    },
+    {
+      "id": 52,
+      "slug": "cgeit",
+      "title": "Certified in the Governance of Enterprise IT",
+      "abbreviation": "CGEIT",
+      "description": "CGEIT validates expertise in enterprise IT governance. It assesses the ability to manage, advise, and provide assurance about the governance of enterprise IT, aligning IT with business strategies and goals, optimizing IT resources, and managing IT-related risks.",
+      "image": "https://cyberdefenders.org/media/certifications/certified-in-the-governance-of-enterprise-it-cgeit.webp",
+      "url": "https://www.isaca.org/credentialing/cgeit",
+      "cost": "$760",
+      "training_included": false,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "IT Governance Manager",
+        "IT Director",
+        "Chief Information Officer",
+        "Compliance Manager",
+        "Risk Manager"
+      ],
+      "cert_type": "infoSec",
+      "total_votes": 1,
+      "market_presence": 0.17,
+      "cost_effectiveness": 3.0,
+      "skill_level": "Advanced",
+      "quality": 5.0,
+      "satisfaction": 4.0,
+      "provider": {
+        "name": "ISACA",
+        "url": "https://www.isaca.org/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Governance of Enterprise IT",
+        "IT Resources",
+        "Benefits Realization",
+        "Risk Optimization"
+      ],
+      "requirements_data": {
+        "knowledge": "Solid knowledge of IT governance",
+        "work_experience": "Five years in IT governance",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "Multiple choice",
+        "duration": "4 hours",
+        "report_required": false
+      },
+      "valid_for": "3 Years"
+    },
+    {
+      "id": 51,
+      "slug": "crisc",
+      "title": "Certified in Risk and Information Systems Control",
+      "abbreviation": "CRISC",
+      "description": "CRISC validates expertise in IT risk management and information systems control. It assesses the ability to identify, evaluate, and manage IT risks and implement effective information systems controls to enhance organizational resilience.",
+      "image": "https://cyberdefenders.org/media/certifications/certified-in-risk-and-information-systems-control-crisc.webp",
+      "url": "https://www.isaca.org/credentialing/crisc",
+      "cost": "$760",
+      "training_included": false,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "Compliance Auditor",
+        "Senior Risk Analyst",
+        "Data Protection Officer",
+        "Risk Manager",
+        "IT Security Specialist"
+      ],
+      "cert_type": "infoSec",
+      "total_votes": 1,
+      "market_presence": 0.17,
+      "cost_effectiveness": 3.0,
+      "skill_level": "Intermediate",
+      "quality": 5.0,
+      "satisfaction": 3.67,
+      "provider": {
+        "name": "ISACA",
+        "url": "https://www.isaca.org/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "IT Governance",
+        "IT Risk Assessment",
+        "Risk Response and Reporting",
+        "Information Technology and Security"
+      ],
+      "requirements_data": {
+        "knowledge": "knowledge of business and technology risk management, and the implementation of IS controls",
+        "work_experience": "Three years in IT risk management and IS control",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "Multiple-choice",
+        "duration": "4 hours",
+        "report_required": false
+      },
+      "valid_for": "3 Years"
+    },
+    {
+      "id": 46,
+      "slug": "exp-401-osee",
+      "title": "OffSec Exploitation Expert",
+      "abbreviation": "OSEE",
+      "description": "OSEE focuses on modern advanced Windows exploitation development techniques. it validates skills in developing and executing exploits against complex Windows environments, including bypassing modern protections like DEP, ASLR, and kernel exploitation.",
+      "image": "https://cyberdefenders.org/media/certifications/offsec-exploitation-expert-osee.webp",
+      "url": "https://www.offsec.com/courses/exp-401/",
+      "cost": "$5,000",
+      "training_included": true,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "Vulnerability Analyst",
+        "Penetration Tester",
+        "Exploit Developer",
+        "Security Researcher"
+      ],
+      "cert_type": "red",
+      "total_votes": 3,
+      "market_presence": 0.18,
+      "cost_effectiveness": 3.0,
+      "skill_level": "Expert",
+      "quality": 4.666666666666667,
+      "satisfaction": 4.22,
+      "provider": {
+        "name": "OffSec",
+        "url": "https://www.offsec.com/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Bypass and evasion of user mode security mitigations",
+        "Advanced heap manipulations",
+        "Disarming WDEG mitigations",
+        "Windows Kernel Driver reverse engineering",
+        "Bypass of kernel mode security mitigations"
+      ],
+      "requirements_data": {
+        "knowledge": "Experience in windows exploits development and familiarity with WinDbg, IDA, and x86_64 architecture and basic C/C++ programming",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "Advanced Windows Exploitation (EXP-401)"
+      },
+      "exam_details_data": {
+        "format": "Hands-on, practical exam with two challenges",
+        "duration": "71 hours and 45 minutes, plus 24 hours for the report",
+        "report_required": true
+      },
+      "valid_for": "No expiration date"
+    },
+    {
+      "id": 22,
+      "slug": "cdsa",
+      "title": "HTB Certified Defensive Security Analyst",
+      "abbreviation": "CDSA",
+      "description": "CDSA validates skills in security analysis, SOC operations, and incident handling. CDSA assesses the ability to detect, analyze, and respond to security incidents in real-world scenarios, emphasizing practical experience and hands-on lab work.",
+      "image": "https://cyberdefenders.org/media/certifications/htb-certified-defensive-security-analyst-cdsa.webp",
+      "url": "https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst",
+      "cost": "$355",
+      "training_included": true,
+      "number_of_attempts": 2,
+      "job_roles_titles": [
+        "Cybersecurity Analyst",
+        "Security Analyst",
+        "SOC Analyst",
+        "Incident Responder"
+      ],
+      "cert_type": "blue",
+      "total_votes": 26,
+      "market_presence": 0.55,
+      "cost_effectiveness": 4.423076923076923,
+      "skill_level": "Advanced",
+      "quality": 4.538461538461538,
+      "satisfaction": 4.26,
+      "provider": {
+        "name": "HTB Academy",
+        "url": "https://academy.hackthebox.com/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Incident Response and Management",
+        "Threat Intelligence and Detection",
+        "Event and Log Analysis",
+        "Web and Application Security",
+        "Forensics and Investigation"
+      ],
+      "requirements_data": {
+        "knowledge": "web application, operating system, and networking basics and comfortably navigating a plethora of data",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "Completion of SOC Analyst job-role path"
+      },
+      "exam_details_data": {
+        "format": "Hands-on practical exam",
+        "duration": "7 days",
+        "report_required": true
+      },
+      "valid_for": "No expiration date"
+    },
+    {
+      "id": 11,
+      "slug": "certified-cyberdefender-ccd",
+      "title": "Certified CyberDefender",
+      "abbreviation": "CCD",
+      "description": "CCD is a vendor-neutral, hands-on cybersecurity training and certification designed to prepare SOC analysts, security blue teams, threat hunters, and DFIR professionals. It validates skills in SecOps fundamentals, perimeter defense, incident response, digital forensics, threat hunting, and malware analysis.",
+      "image": "https://cyberdefenders.org/media/certifications/certified-cyberdefender-ccd.webp",
+      "url": "https://cyberdefenders.org/blue-team-training/courses/certified-cyberdefender-certification/",
+      "cost": "$800",
+      "training_included": true,
+      "number_of_attempts": 2,
+      "job_roles_titles": [
+        "Digital Forensics Analyst",
+        "Cybersecurity Analyst",
+        "Threat Hunter",
+        "SOC Analyst",
+        "Incident Responder"
+      ],
+      "cert_type": "blue",
+      "total_votes": 38,
+      "market_presence": 0.81,
+      "cost_effectiveness": 4.026315789473684,
+      "skill_level": "Intermediate",
+      "quality": 4.5,
+      "satisfaction": 3.95,
+      "provider": {
+        "name": "CyberDefenders",
+        "url": "https://cyberdefenders.org/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Incident Response and Management",
+        "Email Security",
+        "Digital Forensics",
+        "Threat Hunting",
+        "Network and Traffic Analysis",
+        "Malware Analysis"
+      ],
+      "requirements_data": {
+        "knowledge": "Basic system administration, networks, and security concepts",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "hands-on practical exam",
+        "duration": "48 hours",
+        "report_required": false
+      },
+      "valid_for": "No expiration date"
+    },
+    {
+      "id": 109,
+      "slug": "certified-cyberdefender-level-1",
+      "title": "Certified CyberDefender Level 1",
+      "abbreviation": "CCDL1",
+      "description": "The industry's most practical blue team certification for aspiring SOC Analysts. Learn to detect, investigate, and respond to cyber attacks through real-world investigations. This entry-level certification provides hands-on training developed with Mandiant & PwC SOC Managers, covering SOC operations, SIEM operations, digital forensics, incident response, network security, email security, cloud forensics, and AI-driven security.",
+      "image": "https://cyberdefenders.org/media/certifications/CCDL1.png",
+      "url": "https://cyberdefenders.org/certifications/certified-cyberdefender-level1/",
+      "cost": "$499.00",
+      "training_included": true,
+      "number_of_attempts": 2,
+      "job_roles_titles": [
+        "Threat Hunter",
+        "Incident Responder",
+        "SOC Analyst",
+        "Cyber Defense Analyst",
+        "Security analysts"
+      ],
+      "cert_type": "blue",
+      "total_votes": 6,
+      "market_presence": 0.13,
+      "cost_effectiveness": 4.166666666666667,
+      "skill_level": "Beginner",
+      "quality": 4.5,
+      "satisfaction": 3.67,
+      "provider": {
+        "name": "CyberDefenders",
+        "url": "https://cyberdefenders.org/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Phishing Defense",
+        "Log Analysis",
+        "Digital Forensics & Incident Response (DFIR)",
+        "Cloud Forensics",
+        "AI-Driven Security",
+        "Network security",
+        "Threat Intelligence",
+        "Email Security",
+        "SOC Operations",
+        "Endpoint Security",
+        "SIEM Operations"
+      ],
+      "requirements_data": {
+        "knowledge": "Entry-level - designed for beginners",
+        "work_experience": "None required",
+        "prior_courses_and_certifications": "None required"
+      },
+      "exam_details_data": {
+        "format": null,
+        "duration": "5 hours",
+        "report_required": false
+      },
+      "valid_for": "4 years"
+    },
+    {
+      "id": 79,
+      "slug": "giac-certified-intrusion-analyst-certification-gcia",
+      "title": "GIAC Certified Intrusion Analyst Certification (GCIA)",
+      "abbreviation": "GCIA",
+      "description": "The GIAC Intrusion Analyst (GCIA) certification validates a practitioner's knowledge of network and host monitoring, traffic analysis, and intrusion detection. GCIA certification holders have the skills needed to configure and monitor intrusion detection systems, and to read, interpret, and analyze network traffic and related log files.",
+      "image": "https://cyberdefenders.org/media/certifications/GCIA.png",
+      "url": "https://www.giac.org/certifications/certified-intrusion-analyst-gcia/",
+      "cost": "$999",
+      "training_included": false,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "Network Administrator",
+        "System analyst",
+        "Security analysts",
+        "Network Security Engineer"
+      ],
+      "cert_type": "blue",
+      "total_votes": 2,
+      "market_presence": 0.04,
+      "cost_effectiveness": 2.5,
+      "skill_level": "Advanced",
+      "quality": 4.5,
+      "satisfaction": 3.5,
+      "provider": {
+        "name": "GIAC",
+        "url": "https://www.giac.org/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Application Protocols",
+        "Network and Traffic Analysis",
+        "Network Traffic Forensics and Monitoring",
+        "Open-Source IDS: Snort and Zeek"
+      ],
+      "requirements_data": {
+        "knowledge": "Understanding of network protocols (TCP/IP, HTTP, DNS, etc.),Packet capture and analysis techniques, Intrusion detection systems (e.g., Snort, Suricata), Network traffic analysis tools (e.g., Wireshark, tcpdump), Incident response and mitigation strategies, Identification of malicious network activity",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "Multiple choice",
+        "duration": "4 hours",
+        "report_required": false
+      },
+      "valid_for": "4 years"
+    },
+    {
+      "id": 48,
+      "slug": "certified-information-systems-security-professional",
+      "title": "Certified Information Systems Security Professional",
+      "abbreviation": "CISSP",
+      "description": "CISSP validates expertise in designing, implementing, and managing a best-in-class cybersecurity program. CISSP assesses knowledge in various security domains, including risk management, software development security, and identity and access management, aiming to ensure a comprehensive understanding of information security.",
+      "image": "https://cyberdefenders.org/media/certifications/certified-information-systems-security-professional-cissp.webp",
+      "url": "https://www.isc2.org/certifications/cissp",
+      "cost": "$749",
+      "training_included": false,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "IT Director",
+        "Security Architect",
+        "Security Analyst",
+        "Security Consultant",
+        "Chief Information Security Officer"
+      ],
+      "cert_type": "infoSec",
+      "total_votes": 6,
+      "market_presence": 1.0,
+      "cost_effectiveness": 4.0,
+      "skill_level": "Advanced",
+      "quality": 4.5,
+      "satisfaction": 4.17,
+      "provider": {
+        "name": "ISC2",
+        "url": "https://www.isc2.org/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Security and Risk Management",
+        "Asset Security",
+        "Security Architecture and Engineering",
+        "Communication and Network Security",
+        "Identity and Access Management (IAM)",
+        "Security Assessment and Testing",
+        "Security Operations",
+        "Software Development Security"
+      ],
+      "requirements_data": {
+        "knowledge": "foundational knowledge of IS concepts and practices and an understanding of cybersecurity principles, risk management, and access control",
+        "work_experience": "Five years in two or more of the eight CISSP domains",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "Multiple-choice and advanced innovative items",
+        "duration": "3 hours",
+        "report_required": false
+      },
+      "valid_for": "3 Years"
+    },
+    {
+      "id": 35,
+      "slug": "crto",
+      "title": "Certified Red Team Operator",
+      "abbreviation": "CRTO",
+      "description": "CRTO validates skills in red teaming, focusing on tactics, techniques, and procedures used by threat actors to infiltrate systems. It covers command and control setups, initial compromises, lateral movements, and data exfiltration.",
+      "image": "https://cyberdefenders.org/media/certifications/CRTO.png",
+      "url": "https://training.zeropointsecurity.co.uk/courses/red-team-ops",
+      "cost": "£365.00",
+      "training_included": true,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "Red Team Operator",
+        "Penetration Tester",
+        "Security Analyst",
+        "Cybersecurity Consultant"
+      ],
+      "cert_type": "red",
+      "total_votes": 7,
+      "market_presence": 0.41,
+      "cost_effectiveness": 3.7142857142857144,
+      "skill_level": "Advanced",
+      "quality": 4.428571428571429,
+      "satisfaction": 3.95,
+      "provider": {
+        "name": "Zero-Point Security",
+        "url": "https://training.zeropointsecurity.co.uk/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Adversary Simulation",
+        "Command & Control",
+        "Engagement Planning and Reporting",
+        "Active Directory Attack Lifecycle"
+      ],
+      "requirements_data": {
+        "knowledge": "Good working knowledge of Windows and Active Directory environments.  Prior penetrating testing, programming and scripting experience would be a bonus.",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "Practical, hands-on lab",
+        "duration": "48 hours of lab time usable within a 4-day window",
+        "report_required": false
+      },
+      "valid_for": "No expiration date"
+    },
+    {
+      "id": 34,
+      "slug": "pnpt",
+      "title": "Practical Network Penetration Tester",
+      "abbreviation": "PNPT",
+      "description": "PNPT evaluates an individual's ability to perform external and internal network penetration tests in a simulated real-world environment. It assesses OSINT, external and internal penetration testing, Active Directory exploitation, and report writing skills.",
+      "image": "https://cyberdefenders.org/media/certifications/practical-network-penetration-tester-pnpt.webp",
+      "url": "https://certifications.tcm-sec.com/pnpt/",
+      "cost": "$499",
+      "training_included": true,
+      "number_of_attempts": 2,
+      "job_roles_titles": [
+        "Network Security Engineer",
+        "Red Team Operator",
+        "Security Analyst",
+        "Penetration Tester",
+        "Vulnerability Assessor"
+      ],
+      "cert_type": "red",
+      "total_votes": 8,
+      "market_presence": 0.47,
+      "cost_effectiveness": 4.25,
+      "skill_level": "Intermediate",
+      "quality": 4.375,
+      "satisfaction": 3.92,
+      "provider": {
+        "name": "TCM Security",
+        "url": "https://certifications.tcm-sec.com/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Open Source Intelligence (OSINT)",
+        "Active Directory exploitation",
+        "Anti-virus bypass",
+        "Lateral and vertical movements"
+      ],
+      "requirements_data": {
+        "knowledge": "Basic networking, Linux, Windows administration, and ethical hacking concepts",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "Practical exam",
+        "duration": "5 days for penetration testing and 2 days for reporting",
+        "report_required": true
+      },
+      "valid_for": "No expiration date"
+    },
+    {
+      "id": 13,
+      "slug": "sans-gcfa",
+      "title": "GIAC Certified Forensic Analyst",
+      "abbreviation": "GCFA",
+      "description": "GCFA certifies expertise in collecting and analyzing data from computer systems to handle advanced incident handling scenarios. It validates skills in handling data breaches, advanced persistent threats, and anti-forensic techniques.",
+      "image": "https://cyberdefenders.org/media/certifications/giac-certified-forensic-analyst-gcfa.webp",
+      "url": "https://www.giac.org/certifications/certified-forensic-analyst-gcfa/",
+      "cost": "$8,525",
+      "training_included": true,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "Digital Forensic Analyst",
+        "Incident Response Analyst",
+        "Threat Intelligence Analyst",
+        "Security Consultant",
+        "SOC Analyst"
+      ],
+      "cert_type": "blue",
+      "total_votes": 16,
+      "market_presence": 0.34,
+      "cost_effectiveness": 1.75,
+      "skill_level": "Advanced",
+      "quality": 4.3125,
+      "satisfaction": 3.29,
+      "provider": {
+        "name": "GIAC",
+        "url": "https://www.giac.org/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Forensics and Investigation",
+        "Threat Hunting",
+        "Anti Forensics Detection",
+        "Event and Log Analysis",
+        "APT Intrusion Incident Response"
+      ],
+      "requirements_data": {
+        "knowledge": "Core skills in digital forensics and incident response",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "Theoretical multiple-choice and hands-on lab questions",
+        "duration": "3 hours",
+        "report_required": false
+      },
+      "valid_for": "4 Years"
+    },
+    {
+      "id": 23,
+      "slug": "cpts",
+      "title": "HTB Certified Penetration Testing Specialist",
+      "abbreviation": "CPTS",
+      "description": "CPTS validates hands-on penetration testing skills. It assesses a candidate's ability to conduct web, network, and infrastructure penetration tests, and prepare professional penetration testing reports.",
+      "image": "https://cyberdefenders.org/media/certifications/htb-certified-penetration-testing-specialist-cpts.webp",
+      "url": "https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist",
+      "cost": "$410",
+      "training_included": true,
+      "number_of_attempts": 2,
+      "job_roles_titles": [
+        "Security Engineer",
+        "Vulnerability Analyst",
+        "Penetration Tester",
+        "Security Consultant"
+      ],
+      "cert_type": "red",
+      "total_votes": 10,
+      "market_presence": 0.59,
+      "cost_effectiveness": 4.5,
+      "skill_level": "Intermediate",
+      "quality": 4.3,
+      "satisfaction": 4.03,
+      "provider": {
+        "name": "HTB Academy",
+        "url": "https://academy.hackthebox.com/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Penetration testing processes, methodologies",
+        "Information gathering, reconnaissance techniques",
+        "Attacking Windows, Linux targets",
+        "Vulnerability assessment, exploitation, reporting"
+      ],
+      "requirements_data": {
+        "knowledge": "Intermediate knowledge of web and infrastructure penetration testing, web applications, operating systems, and networking basics",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "Completion of the Penetration Tester job-role path"
+      },
+      "exam_details_data": {
+        "format": "Hands-on exam with real-world scenarios",
+        "duration": "10 days",
+        "report_required": true
+      },
+      "valid_for": "No expiration date"
+    },
+    {
+      "id": 67,
+      "slug": "practical-soc-analyst-associate",
+      "title": "Practical SOC Analyst Associate",
+      "abbreviation": "PSAA",
+      "description": "PSAA certification is an associate-level security operations and incident response exam experience. The exam will assess a student’s ability to use analysis tools, interpret artifacts, and apply investigation methodologies to respond to incidents at a Tier 1 and Tier 2 level.",
+      "image": "https://cyberdefenders.org/media/certifications/PSAA.webp",
+      "url": "https://certifications.tcm-sec.com/psaa/",
+      "cost": "$249",
+      "training_included": true,
+      "number_of_attempts": 2,
+      "job_roles_titles": [
+        "Security Operations Center (SOC) Analyst",
+        "SOC Analyst"
+      ],
+      "cert_type": "blue",
+      "total_votes": 7,
+      "market_presence": 0.15,
+      "cost_effectiveness": 4.142857142857143,
+      "skill_level": "Beginner",
+      "quality": 4.285714285714286,
+      "satisfaction": 3.57,
+      "provider": {
+        "name": "TCM Security",
+        "url": "https://certifications.tcm-sec.com/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Network and Traffic Analysis",
+        "Threat Intelligence and Detection",
+        "Event and Log Analysis",
+        "Incident Response and Management",
+        "Security Operations",
+        "Network security",
+        "Phishing Analysis",
+        "Security Information and Event Management (SIEM)",
+        "Digital Forensics"
+      ],
+      "requirements_data": {
+        "knowledge": "",
+        "work_experience": "",
+        "prior_courses_and_certifications": ""
+      },
+      "exam_details_data": {
+        "format": "",
+        "duration": "",
+        "report_required": false
+      },
+      "valid_for": "No expiration date"
+    },
+    {
+      "id": 60,
+      "slug": "practical-junior-penetration-tester",
+      "title": "Practical Junior Penetration Tester",
+      "abbreviation": "PJPT",
+      "description": "PJPT assesses an individual's ability to perform an internal network penetration test. It evaluates skills in Active Directory exploitation, lateral and vertical network movement, and report writing, providing hands-on experience in penetration testing.",
+      "image": "https://cyberdefenders.org/media/certifications/PJPT.png",
+      "url": "https://certifications.tcm-sec.com/pjpt/",
+      "cost": "$249",
+      "training_included": true,
+      "number_of_attempts": 2,
+      "job_roles_titles": [
+        "Junior Penetration Tester",
+        "Security Analyst",
+        "Vulnerability Assessor"
+      ],
+      "cert_type": "red",
+      "total_votes": 4,
+      "market_presence": 0.24,
+      "cost_effectiveness": 4.5,
+      "skill_level": "Beginner",
+      "quality": 4.25,
+      "satisfaction": 3.67,
+      "provider": {
+        "name": "TCM Security",
+        "url": "https://certifications.tcm-sec.com/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Web Application Exploitation",
+        "Attack Lifecycle",
+        "Active Directory exploitation"
+      ],
+      "requirements_data": {
+        "knowledge": "Basic understanding of computers and networking",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "Hands-on practical exam",
+        "duration": "2 days for the assessment and 2 days for the report",
+        "report_required": true
+      },
+      "valid_for": "No expiration date"
+    },
+    {
+      "id": 94,
+      "slug": "web-application-penetration-tester-extreme",
+      "title": "Web Application Penetration Tester eXtreme",
+      "abbreviation": "eWPTX",
+      "description": "The eWPTX is our most advanced web application penetration testing certification. This 100% practical and highly respected certification validates the advanced skills necessary to conduct in-depth penetration tests on modern web applications.",
+      "image": "https://cyberdefenders.org/media/certifications/ewptx.png",
+      "url": "https://security.ine.com/certifications/ewptx-certification/",
+      "cost": "$399",
+      "training_included": true,
+      "number_of_attempts": 2,
+      "job_roles_titles": [
+        "Senior Penetration Tester",
+        "Offensive Security Specialist",
+        "Web Application Security Consultant",
+        "Red Team Specialist"
+      ],
+      "cert_type": "red",
+      "total_votes": 4,
+      "market_presence": 0.24,
+      "cost_effectiveness": 4.25,
+      "skill_level": "Advanced",
+      "quality": 4.25,
+      "satisfaction": 4.17,
+      "provider": {
+        "name": "INE Security",
+        "url": "https://security.ine.com/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Web Application Penetration Testing Methodology",
+        "Web Application Reconnaissance",
+        "Authentication Attacks",
+        "Injection Vulnerabilities",
+        "API Penetration Testing",
+        "Server-Side Attacks",
+        "Filter Evasion & WAF Bypass"
+      ],
+      "requirements_data": {
+        "knowledge": "Advanced understanding of web application security, penetration testing methodologies, and common vulnerabilities (e.g., OWASP Top 10).",
+        "work_experience": "Recommended intermediate to advanced web app pentesting experience",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "Practical, hands-on exam",
+        "duration": "14 days",
+        "report_required": true
+      },
+      "valid_for": "Lifetime"
+    },
+    {
+      "id": 12,
+      "slug": "pen-200-oscp",
+      "title": "OffSec Certified Professional",
+      "abbreviation": "OSCP",
+      "description": "OSCP is a penetration testing certification that validates practical skills in exploiting vulnerabilities and conducting penetration tests using Kali Linux. It assesses candidates' abilities to conduct penetration tests, identify vulnerabilities, and document the exploitation process.",
+      "image": "https://cyberdefenders.org/media/certifications/offsec-certified-professional-oscp.webp",
+      "url": "https://www.offsec.com/courses/pen-200/",
+      "cost": "$1,649",
+      "training_included": true,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "Security Engineer",
+        "Security Consultant",
+        "Penetration Tester",
+        "Red Team Operator"
+      ],
+      "cert_type": "red",
+      "total_votes": 17,
+      "market_presence": 1.0,
+      "cost_effectiveness": 3.2941176470588234,
+      "skill_level": "Intermediate",
+      "quality": 4.235294117647059,
+      "satisfaction": 3.61,
+      "provider": {
+        "name": "OffSec",
+        "url": "https://www.offsec.com/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Information Gathering",
+        "Vulnerability Scanning and patching",
+        "Introduction to Web Applications",
+        "Common Web Application Attacks"
+      ],
+      "requirements_data": {
+        "knowledge": "Understanding of networking, Linux and Windows administration, basic Bash or Python scripting",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "Practical exam",
+        "duration": "23 hours and 45 minutes to complete the exam and 24 hours for the report",
+        "report_required": true
+      },
+      "valid_for": "No expiration date"
+    },
+    {
+      "id": 25,
+      "slug": "pen-210-oswp",
+      "title": "OffSec Wireless Professional",
+      "abbreviation": "OSWP",
+      "description": "OSWP focuses on wireless network security. OSWP assesses practical skills in identifying, exploiting, and securing wireless networks, covering topics like Wi-Fi encryption (WEP, WPA, WPA2), Linux wireless tools, and rogue access points. It is designed to validate hands-on expertise in wireless security assessment.",
+      "image": "https://cyberdefenders.org/media/certifications/offsec-wireless-professional-oswp.webp",
+      "url": "https://www.offsec.com/courses/pen-210/",
+      "cost": "$2599",
+      "training_included": true,
+      "number_of_attempts": 2,
+      "job_roles_titles": [
+        "Cybersecurity Analyst",
+        "Network Security Engineer",
+        "Security Consultant",
+        "Wireless Penetration Tester",
+        "Red Team Operator"
+      ],
+      "cert_type": "red",
+      "total_votes": 5,
+      "market_presence": 0.29,
+      "cost_effectiveness": 2.8,
+      "skill_level": "Intermediate",
+      "quality": 4.2,
+      "satisfaction": 3.4,
+      "provider": {
+        "name": "OffSec",
+        "url": "https://www.offsec.com/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Wi-Fi Encryption",
+        "Linux Wireless Tools, Drivers, and Stacks",
+        "Wireshark and Aircrack-ng Essentials",
+        "Frames and Network Interaction",
+        "Cracking Authentication Hashes",
+        "Rogue Access Points"
+      ],
+      "requirements_data": {
+        "knowledge": "Familiarity with the Linux command line, TCP/IP networking, and wireless networking concepts",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "Practical exam",
+        "duration": "3 hours and 45 minutes, plus 24 hours to submit the report",
+        "report_required": true
+      },
+      "valid_for": "No expiration date"
+    },
+    {
+      "id": 56,
+      "slug": "gcih",
+      "title": "GIAC Certified Incident Handler",
+      "abbreviation": "GCIH",
+      "description": "GCIH validates the ability to detect, respond, and resolve security incidents using essential security skills. GCIH assesses knowledge in managing security incidents by understanding attack techniques, vectors, and tools, and defending against and responding to such attacks.",
+      "image": "https://cyberdefenders.org/media/certifications/giac-certified-incident-handler-gcih.webp",
+      "url": "https://www.giac.org/certifications/certified-incident-handler-gcih/",
+      "cost": "$8,525",
+      "training_included": true,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "Incident Handler",
+        "Incident Handling Team Lead",
+        "Security Practitioner",
+        "Security Architect"
+      ],
+      "cert_type": "blue",
+      "total_votes": 8,
+      "market_presence": 0.17,
+      "cost_effectiveness": 1.75,
+      "skill_level": "Intermediate",
+      "quality": 4.0,
+      "satisfaction": 2.88,
+      "provider": {
+        "name": "GIAC",
+        "url": "https://www.giac.org/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Incident Response and Management",
+        "Threat Intelligence and Detection",
+        "Forensics and Investigation",
+        "Hacker Tools (Nmap, Metasploit and Netcat)"
+      ],
+      "requirements_data": {
+        "knowledge": "An understanding of basic networking, security principles, and the Windows command line",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "Theoretical multiple-choice and hands-on lab questions",
+        "duration": "4 hours",
+        "report_required": false
+      },
+      "valid_for": "4 Years"
+    },
+    {
+      "id": 104,
+      "slug": "giac-experienced-forensic-examiner-gxfe",
+      "title": "GIAC Experienced Forensics Examiner",
+      "abbreviation": "GX-FE",
+      "description": "The GIAC Experienced Forensics Examiner (GX-FE) demonstrates that a candidate is qualified for a hands-on Windows forensic analyst role. Certification holders will have validated their ability to analyze a Windows host to uncover evidence that proves a user performed a particular activity on the device.",
+      "image": "https://cyberdefenders.org/media/certifications/GIAC-Cert_GX-FE.png",
+      "url": "https://www.giac.org/certifications/experienced-forensics-examiner-gxfe/",
+      "cost": "$1,299",
+      "training_included": false,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "Cyber Security Investigator",
+        "Digital Forensics Examiner",
+        "Incident Response Analyst"
+      ],
+      "cert_type": "blue",
+      "total_votes": 1,
+      "market_presence": 0.02,
+      "cost_effectiveness": 2.0,
+      "skill_level": "Expert",
+      "quality": 4.0,
+      "satisfaction": 3.67,
+      "provider": {
+        "name": "GIAC",
+        "url": "https://www.giac.org/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Application Execution Analysis",
+        "File Existence and Deleted Item Recovery",
+        "Cloud Storage Artifact Analysis",
+        "System Configuration Profiling",
+        "Network Activity and Physical Location Tracking",
+        "File and Folder Interaction Investigation",
+        "Browser Activity Investigation",
+        "Account Usage Profiling",
+        "External Device and USB Activity Investigation"
+      ],
+      "requirements_data": {
+        "knowledge": "Strong understanding of Windows forensics, digital investigation methodologies, and familiarity with forensic tools and techniques. Candidates should have general understanding of all areas of cybersecurity.",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "GIAC Certified Forensic Examiner (GCFE) recommended. Training courses FOR500, FOR498, FOR508, or FOR608 are beneficial for preparation."
+      },
+      "exam_details_data": {
+        "format": "25 CyberLive - hands-on, real-world practical testing.",
+        "duration": "4 hours",
+        "report_required": false
+      },
+      "valid_for": "4 years"
+    },
+    {
+      "id": 41,
+      "slug": "certified-digital-forensics-professional-ecdfp",
+      "title": "Certified Digital Forensics Professional",
+      "abbreviation": "eCDFP",
+      "description": "eCDFP assesses and validates expertise in digital forensics, focusing on evidence preservation, analysis of digital artifacts, storage device fundamentals, and forensic tools and techniques. It ensures proficiency in investigating network attacks and handling digital evidence in real-world scenarios.",
+      "image": "https://cyberdefenders.org/media/certifications/certified-digital-forensics-professional-ecdfp.webp",
+      "url": "https://security.ine.com/certifications/ecdfp-certification/",
+      "cost": "$399",
+      "training_included": false,
+      "number_of_attempts": 2,
+      "job_roles_titles": [
+        "Computer Forensic Analyst",
+        "Digital Forensic Examiner",
+        "Forensic Technician",
+        "Security Operations Center (SOC) Analyst",
+        "Cybersecurity Consultant"
+      ],
+      "cert_type": "blue",
+      "total_votes": 3,
+      "market_presence": 0.06,
+      "cost_effectiveness": 3.3333333333333335,
+      "skill_level": "Intermediate",
+      "quality": 4.0,
+      "satisfaction": 3.33,
+      "provider": {
+        "name": "INE Security",
+        "url": "https://security.ine.com/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Forensics and Investigation",
+        "Network and Traffic Analysis",
+        "Event and Log Analysis",
+        "Incident Response and Management",
+        "Threat Intelligence and Detection"
+      ],
+      "requirements_data": {
+        "knowledge": "Advanced understanding of digital forensics principles",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "Practical, real-world simulation",
+        "duration": "24 hours",
+        "report_required": false
+      },
+      "valid_for": "3 Years"
+    },
+    {
+      "id": 45,
+      "slug": "exp-301-osed",
+      "title": "OffSec Exploit Developer",
+      "abbreviation": "OSED",
+      "description": "OSED validates advanced skills in Windows exploit development, including in-depth vulnerability analysis, reverse engineering, and custom exploit creation. It covers topics such as bypassing security mitigations like DEP and ASLR, writing shellcode, and using return-oriented programming (ROP) techniques.",
+      "image": "https://cyberdefenders.org/media/certifications/offsec-exploit-developer-osed.webp",
+      "url": "https://www.offsec.com/courses/exp-301/",
+      "cost": "$1,649",
+      "training_included": true,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "Exploit Developer",
+        "Security Researcher",
+        "Malware Analyst",
+        "Red Team Operator",
+        "Software Security Engineer"
+      ],
+      "cert_type": "red",
+      "total_votes": 3,
+      "market_presence": 0.18,
+      "cost_effectiveness": 3.3333333333333335,
+      "skill_level": "Advanced",
+      "quality": 4.0,
+      "satisfaction": 3.67,
+      "provider": {
+        "name": "OffSec",
+        "url": "https://www.offsec.com/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Stack overflows",
+        "SEH overflows",
+        "egghunters",
+        "custom shellcoding",
+        "ASLR, DEP (ROP), and format strings attacks"
+      ],
+      "requirements_data": {
+        "knowledge": "Proficiency in C/C++ programming, assembly language, and understanding of Windows internals and debugging tools",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "Practical, real-world simulation",
+        "duration": "47 hours and 45 minutes, plus 24 hours for report submission",
+        "report_required": true
+      },
+      "valid_for": "No expiration date"
+    },
+    {
+      "id": 88,
+      "slug": "certified-networks-forensics-examiner-cnfe",
+      "title": "Certified Networks Forensics Examiner",
+      "abbreviation": "CNFE",
+      "description": "The Certified Network Forensics Examiner (CNFE) certification validates the skills required to conduct network forensic investigations, analyze network traffic, and identify malicious activity. CNFE-certified professionals demonstrate expertise in collecting and analyzing network evidence to support incident response and legal proceedings.",
+      "image": "https://cyberdefenders.org/media/certifications/erasebg-transformed.png",
+      "url": "https://mile2.com/product/cnfe-exam-combo/",
+      "cost": "$550",
+      "training_included": false,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "IS Managers",
+        "Network Auditors",
+        "IT Managers",
+        "Digital and Network Forensics Examiners"
+      ],
+      "cert_type": "blue",
+      "total_votes": 1,
+      "market_presence": 0.02,
+      "cost_effectiveness": 4.0,
+      "skill_level": "Advanced",
+      "quality": 4.0,
+      "satisfaction": 4.0,
+      "provider": { "name": "Mile2", "url": "https://mile2.com", "image": "" },
+      "domains_covered_titles": [
+        "Network Forensics Fundamentals",
+        "Traffic Acquisition and Analysis",
+        "Network Evidence Handling",
+        "Investigating Common Network Attacks",
+        "Log Correlation and Visualization",
+        "Wireless and Cloud Forensics"
+      ],
+      "requirements_data": {
+        "knowledge": "Understanding of networks, cybersecurity, and TCP/IP fundamentals",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "Multiple choice questions",
+        "duration": "2 hours",
+        "report_required": false
+      },
+      "valid_for": "3 Years"
+    },
+    {
+      "id": 66,
+      "slug": "cyber-defense-certified-professional",
+      "title": "Cyber Defense Certified Professional",
+      "abbreviation": "CDCP",
+      "description": "The CDCP is a practical application of the knowledge, tools, techniques, and procedures acquired through the Cyber Defense Analyst Program. This is accomplished through a battery of real-world security operations scenarios that students must overcome and articulate in a detailed report that includes the appropriate executive summary, findings, recommendations, and remediation steps along with applicable evidence.",
+      "image": "https://cyberdefenders.org/media/certifications/CDCP.webp",
+      "url": "https://www.leveleffect.com/cdcp",
+      "cost": "$249",
+      "training_included": false,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "Cybersecurity Analyst",
+        "Incident Responder",
+        "SOC Analyst",
+        "Security Operations Center (SOC) Analyst",
+        "Incident Handler",
+        "Incident Response Analyst"
+      ],
+      "cert_type": "blue",
+      "total_votes": 1,
+      "market_presence": 0.02,
+      "cost_effectiveness": 4.0,
+      "skill_level": "Intermediate",
+      "quality": 4.0,
+      "satisfaction": 3.67,
+      "provider": null,
+      "domains_covered_titles": [
+        "Network and Traffic Analysis",
+        "Threat Intelligence and Detection",
+        "Event and Log Analysis",
+        "Email Security",
+        "Digital Forensics",
+        "Malware Analysis"
+      ],
+      "requirements_data": {
+        "knowledge": "",
+        "work_experience": "",
+        "prior_courses_and_certifications": ""
+      },
+      "exam_details_data": {
+        "format": "",
+        "duration": "",
+        "report_required": false
+      },
+      "valid_for": "No expiration date"
+    },
+    {
+      "id": 65,
+      "slug": "offsec-threat-hunter",
+      "title": "OffSec Threat Hunter",
+      "abbreviation": "OSTH",
+      "description": "OffSec’s Foundational Threat Hunting (TH-200) equips cybersecurity professionals with the practical skills and knowledge needed to effectively detect and respond to threats. This course covers core threat hunting concepts, exploring the methodologies used by enterprises to track and mitigate adversaries. Key areas include understanding the threat actor landscape, with a focus on ransomware and Advanced Persistent Threats (APTs), and utilizing both network and endpoint Indicators of Compromise (IoCs) for proactive threat detection.\r\n\r\nUpon successfully completing the rigorous hands-on exam, participants earn the OSTH – OffSec’s threat hunting certification. This credential demonstrates proficiency in foundational threat hunting practices, positioning certified professionals as valuable assets for roles in threat hunting, SOC analysis, and incident response teams.",
+      "image": "https://cyberdefenders.org/media/certifications/offsec-threat-hunter.png",
+      "url": "https://www.offsec.com/courses/th-200/",
+      "cost": "$1,749",
+      "training_included": true,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "Threat Hunter",
+        "SOC Analyst",
+        "Security Operations Center (SOC) Analyst"
+      ],
+      "cert_type": "blue",
+      "total_votes": 1,
+      "market_presence": 0.02,
+      "cost_effectiveness": 4.0,
+      "skill_level": "Intermediate",
+      "quality": 4.0,
+      "satisfaction": 3.67,
+      "provider": {
+        "name": "OffSec",
+        "url": "https://www.offsec.com/",
+        "image": ""
+      },
+      "domains_covered_titles": ["Threat Hunting"],
+      "requirements_data": {
+        "knowledge": "",
+        "work_experience": "",
+        "prior_courses_and_certifications": ""
+      },
+      "exam_details_data": {
+        "format": "",
+        "duration": "",
+        "report_required": false
+      },
+      "valid_for": "No expiration date"
+    },
+    {
+      "id": 90,
+      "slug": "giac-experienced-intrusion-analyst-gx-ia",
+      "title": "GIAC Experienced Intrusion Analyst",
+      "abbreviation": "GX-IA",
+      "description": "The GIAC Experienced Intrusion Analyst Certification (GX-IA) further demonstrates that a candidate is qualified to solve complex and unique challenges that Intrusion Analysts encounter. Certification holders will validate their ability to solve multi-step problems through incorporating various concepts and methodologies to identify malicious activity.",
+      "image": "https://cyberdefenders.org/media/certifications/twitter_thumb_201604_image_1.png",
+      "url": "https://www.giac.org/certifications/experienced-intrusion-analyst-gxia/",
+      "cost": "$999",
+      "training_included": false,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "Intrusion detection and analysis expert",
+        "Network security analyst",
+        "Network forensics specialist",
+        "Threat Hunter",
+        "SOC Analyst"
+      ],
+      "cert_type": "blue",
+      "total_votes": 1,
+      "market_presence": 0.02,
+      "cost_effectiveness": 4.0,
+      "skill_level": "Expert",
+      "quality": 4.0,
+      "satisfaction": 4.33,
+      "provider": {
+        "name": "GIAC",
+        "url": "https://www.giac.org/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Network and Traffic Analysis",
+        "Advanced Analysis Techniques",
+        "Application Traffic Analysis",
+        "IDS Application and Analysis",
+        "Malicious Traffic Analysis",
+        "Network Forensics",
+        "Protocol Analysis"
+      ],
+      "requirements_data": {
+        "knowledge": "Advanced knowledge of protocol analysis, Proficiency with network traffic analysis tools like Wireshark, Scapy, Expertise in intrusion detection systems, Deep understanding of network forensics, Advanced packet analysis capabilities",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "Proctored, 25 CyberLive - hands-on, real-world practical testing.",
+        "duration": "4 hours",
+        "report_required": false
+      },
+      "valid_for": "4 years"
+    },
+    {
+      "id": 28,
+      "slug": "weeb-200-oswa",
+      "title": "OffSec Web Assessor",
+      "abbreviation": "OSWA",
+      "description": "OSWA focuses on web application security testing. OSWA validates skills in identifying and exploiting web vulnerabilities using tools like Burp Suite, OWASP ZAP, and sqlmap. The certification emphasizes practical knowledge and hands-on assessments.",
+      "image": "https://cyberdefenders.org/media/certifications/offsec-web-assessor-oswa.webp",
+      "url": "https://www.offsec.com/courses/web-200/",
+      "cost": "$1,649",
+      "training_included": true,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "Web Penetration Tester",
+        "Application Security Analyst",
+        "Vulnerability Assessor",
+        "Security Consultant"
+      ],
+      "cert_type": "red",
+      "total_votes": 1,
+      "market_presence": 0.06,
+      "cost_effectiveness": 3.0,
+      "skill_level": "Intermediate",
+      "quality": 4.0,
+      "satisfaction": 3.33,
+      "provider": {
+        "name": "OffSec",
+        "url": "https://www.offsec.com/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Cross-site Scripting (XSS)",
+        "Cross-Site Request Forgery (CSRF)",
+        "Server-Side Template Injection (SSTI)",
+        "Server-Side Request Forgery (SSRF)",
+        "Exploiting CORS Misconfigurations",
+        "Database Enumeration",
+        "SQL Injection (SQLi)",
+        "Directory Traversal",
+        "XML External Entity (XXE) Processing"
+      ],
+      "requirements_data": {
+        "knowledge": "Basic understanding of web development, networking and linux",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "Hands-on practical exam",
+        "duration": "24 hours for the practical part, followed by 24 hours to submit the report",
+        "report_required": true
+      },
+      "valid_for": "No expiration date"
+    },
+    {
+      "id": 64,
+      "slug": "offsec-incident-responder",
+      "title": "OffSec Incident Responder",
+      "abbreviation": "OSIR",
+      "description": "OffSec’s Incident Response Essentials (IR-200) course provides cybersecurity professionals with practical training to prepare for, identify, and handle security incidents effectively. The course focuses on core incident response concepts and explores how organizations manage and mitigate cyber threats in real-world situations. Participants will learn to understand the incident response lifecycle, develop comprehensive incident response plans, and utilize tools and techniques for efficient detection and analysis of security events.\r\n\r\nUpon successfully completing the hands-on exam, Learners earn the OffSec Certified Incident Responder (OSIR) certification. This credential validates expertise in foundational incident response practices, positioning you as a valuable asset to incident response teams, Security Operations Centers (SOCs), and organizations committed to strengthening their cybersecurity defenses.",
+      "image": "https://cyberdefenders.org/media/certifications/offsec-incident-responder.png",
+      "url": "https://www.offsec.com/courses/ir-200/",
+      "cost": "$1,749",
+      "training_included": true,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "Security Operations Center (SOC) Analyst",
+        "SOC Analyst",
+        "Incident Responder",
+        "Incident Handler"
+      ],
+      "cert_type": "blue",
+      "total_votes": 1,
+      "market_presence": 0.02,
+      "cost_effectiveness": 4.0,
+      "skill_level": "Intermediate",
+      "quality": 4.0,
+      "satisfaction": 3.67,
+      "provider": {
+        "name": "OffSec",
+        "url": "https://www.offsec.com/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Incident Management",
+        "APT Intrusion Incident Response",
+        "Incident Response and Management"
+      ],
+      "requirements_data": {
+        "knowledge": "",
+        "work_experience": "",
+        "prior_courses_and_certifications": ""
+      },
+      "exam_details_data": {
+        "format": "",
+        "duration": "",
+        "report_required": false
+      },
+      "valid_for": "No expiration date"
+    },
+    {
+      "id": 42,
+      "slug": "exp-312-osmr",
+      "title": "OffSec macOS Researcher",
+      "abbreviation": "OSMR",
+      "description": "OSMR assesses and validates skills in bypassing macOS security controls and exploiting logic vulnerabilities to perform privilege escalation. It focuses on advanced macOS security topics and techniques, such as bypassing Transparency, Consent, and Control (TCC) protections and escaping macOS sandboxes.",
+      "image": "https://cyberdefenders.org/media/certifications/offsec-macos-researcher-osmr.webp",
+      "url": "https://www.offsec.com/courses/exp-312/",
+      "cost": "$1,649",
+      "training_included": true,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "Security Researcher",
+        "Penetration Tester",
+        "Exploit Developer",
+        "macOS Security Specialist",
+        "Red Team Specialist"
+      ],
+      "cert_type": "red",
+      "total_votes": 2,
+      "market_presence": 0.12,
+      "cost_effectiveness": 3.5,
+      "skill_level": "Advanced",
+      "quality": 4.0,
+      "satisfaction": 3.83,
+      "provider": {
+        "name": "OffSec",
+        "url": "https://www.offsec.com/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Introduction to macOS Internals",
+        "Debugging, Tracing & Hopper",
+        "Shellcoding in macOS",
+        "Dylib Injection",
+        "Mach and Mach Injection",
+        "XPC Exploitation",
+        "Sandbox Escape",
+        "Symlink Attacks",
+        "Attacking Privacy (TCC)"
+      ],
+      "requirements_data": {
+        "knowledge": "solid understanding of macOS internals, C and Objective-C programming, and debugging tools",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "Practical, real-world simulation",
+        "duration": "47 hours and 45 minutes for the practical exam, plus 24 hours to submit a report",
+        "report_required": true
+      },
+      "valid_for": "No expiration date"
+    },
+    {
+      "id": 49,
+      "slug": "certified-information-security-manager",
+      "title": "Certified Information Security Manager",
+      "abbreviation": "CISM",
+      "description": "CISM validates expertise in managing, designing, and assessing an enterprise's information security program. CISM assesses the ability to manage and adapt technology to the organization's needs and goals, focusing on risk management, governance, incident management, and program development.",
+      "image": "https://cyberdefenders.org/media/certifications/certified-information-security-manager-cism.webp",
+      "url": "https://www.isaca.org/credentialing/cism",
+      "cost": "$760",
+      "training_included": false,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "Information Security Manager",
+        "IT Director",
+        "Compliance Manager",
+        "Security Consultant",
+        "Risk Manager"
+      ],
+      "cert_type": "infoSec",
+      "total_votes": 2,
+      "market_presence": 0.33,
+      "cost_effectiveness": 2.5,
+      "skill_level": "Advanced",
+      "quality": 4.0,
+      "satisfaction": 3.33,
+      "provider": {
+        "name": "ISACA",
+        "url": "https://www.isaca.org/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Information Security Governance",
+        "Information Security Risk Management",
+        "Information Security Program",
+        "Incident Management"
+      ],
+      "requirements_data": {
+        "knowledge": "Solid understanding of IS practices and concepts",
+        "work_experience": "Five years in information security management",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "Multiple-choice",
+        "duration": "4 hours",
+        "report_required": false
+      },
+      "valid_for": "3 Years"
+    },
+    {
+      "id": 74,
+      "slug": "ecppt-certified-professional-penetration-tester",
+      "title": "eLearnSecurity Certified Professional Penetration Tester",
+      "abbreviation": "eCPPT",
+      "description": "eCPPT is a 100% practical and highly respected Ethical Hacking and Penetration Testing Professional certification counting certified professionals in all seven continents.",
+      "image": "https://cyberdefenders.org/media/certifications/cropped-eCPPT.webp",
+      "url": "https://security.ine.com/certifications/ecppt-certification/",
+      "cost": "$599",
+      "training_included": false,
+      "number_of_attempts": 2,
+      "job_roles_titles": [
+        "Security Consultant",
+        "Ethical Hacker",
+        "Penetration Tester"
+      ],
+      "cert_type": "red",
+      "total_votes": 2,
+      "market_presence": 0.12,
+      "cost_effectiveness": 3.5,
+      "skill_level": "Intermediate",
+      "quality": 4.0,
+      "satisfaction": 3.5,
+      "provider": {
+        "name": "INE Security",
+        "url": "https://security.ine.com/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Penetration testing processes, methodologies",
+        "Privilege Escalation",
+        "Vulnerability Assessment of Network¶",
+        "Vulnerability Assessment of Web Application",
+        "Advanced Exploitation with Metasploit",
+        "Performing Attacks in Pivoting",
+        "Web application Manual exploitation",
+        "Scanning and Profiling the target",
+        "Persistence",
+        "Exploit Development",
+        "Advanced Reporting skills and Remediation"
+      ],
+      "requirements_data": {
+        "knowledge": "Solid understanding of penetration testing, network security, Windows/Linux exploitation, vulnerability assessment, Metasploit, web app attacks, exploit development, and professional reporting.",
+        "work_experience": "",
+        "prior_courses_and_certifications": ""
+      },
+      "exam_details_data": {
+        "format": "Practical Penetration Test + Report Submission",
+        "duration": "14 Day",
+        "report_required": true
+      },
+      "valid_for": "3 Years"
+    },
+    {
+      "id": 103,
+      "slug": "giac-experienced-forensic-analyst-gxfa",
+      "title": "GIAC Experienced Forensic Analyst",
+      "abbreviation": "GX-FA",
+      "description": "The GIAC Experienced Forensics Analyst (GX-FA) Certification further demonstrates that a candidate is qualified for hands-on digital forensic and threat hunting roles. Certification holders will validate their ability to process, analyze and interpret enterprise host-based forensics artifacts as well as mastery of threat and malicious activity detection.",
+      "image": "https://cyberdefenders.org/media/certifications/GX-FA_v2.png",
+      "url": "https://www.giac.org/certifications/experienced-forensics-analyst-gxfa/",
+      "cost": "$1,299",
+      "training_included": false,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "Threat Hunting Specialist",
+        "Forensic Analysts",
+        "Digital Forensic Examiner"
+      ],
+      "cert_type": "blue",
+      "total_votes": 1,
+      "market_presence": 0.02,
+      "cost_effectiveness": 2.0,
+      "skill_level": "Expert",
+      "quality": 4.0,
+      "satisfaction": 3.67,
+      "provider": {
+        "name": "GIAC",
+        "url": "https://www.giac.org/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Windows host file system artifacts",
+        "Windows system triage analysis",
+        "Windows volatile evidence",
+        "Windows system and activity event analysis",
+        "Enterprise threat hunting identification and detection",
+        "Malicious threat actor activity in an enterprise environment"
+      ],
+      "requirements_data": {
+        "knowledge": "Advanced understanding of Windows forensics, threat hunting methodologies, incident response, malware analysis, and proficiency with forensic analysis tools. Strong knowledge of Windows event logs, file system artifacts, volatile memory analysis, and enterprise security operations.",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "GIAC Certified Forensic Analyst (GCFA) recommended. Primary fit course FOR508 is highly recommended for preparation, along with other courses such as FOR500, FOR509, FOR498, FOR572, FOR608, FOR610, SEC503, SEC504, or SEC501."
+      },
+      "exam_details_data": {
+        "format": "25 CyberLive - hands-on, real-world practical testing.",
+        "duration": "4 hours",
+        "report_required": false
+      },
+      "valid_for": "4 years"
+    },
+    {
+      "id": 78,
+      "slug": "giac-network-forensic-analyst-gnfa",
+      "title": "GIAC Network Forensic Analyst",
+      "abbreviation": "GNFA",
+      "description": "The GIAC Network Forensic Analyst (GNFA) certified professional has demonstrated the ability to perform advanced analysis of network forensic artifacts. The GNFA certification focuses on validating the skills required to understand the fundamental practice of network forensics, process and interpret normal and abnormal network activity and analyze application activity through system logs, network traffic captures and network metadata.",
+      "image": "https://cyberdefenders.org/media/certifications/twitter_thumb_201604_image.png",
+      "url": "https://www.giac.org/certifications/network-forensic-analyst-gnfa/",
+      "cost": "$999",
+      "training_included": false,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "Network Security Engineer",
+        "Information Security Analyst",
+        "Incident Response Analyst",
+        "Information Security Manager",
+        "Forensic Analysts",
+        "Threat hunters"
+      ],
+      "cert_type": "blue",
+      "total_votes": 1,
+      "market_presence": 0.02,
+      "cost_effectiveness": 3.0,
+      "skill_level": "Advanced",
+      "quality": 4.0,
+      "satisfaction": 3.67,
+      "provider": {
+        "name": "GIAC",
+        "url": "https://www.giac.org/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Network architecture",
+        "network protocols",
+        "Network protocol reverse engineering",
+        "Encryption",
+        "Encoding",
+        "NetFlow analysis",
+        "Attack visualization",
+        "Security event & incident logging"
+      ],
+      "requirements_data": {
+        "knowledge": "Knowledge of network protocols, network forensics, security event logging, and wireless network analysis",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "Multiple choice",
+        "duration": "3 hours",
+        "report_required": false
+      },
+      "valid_for": "4 Years"
+    },
+    {
+      "id": 37,
+      "slug": "btl1",
+      "title": "Blue Team Level 1",
+      "abbreviation": "BTL1",
+      "description": "BTL1 validates practical defensive cybersecurity skills. BTL1 assesses abilities in areas like phishing analysis, threat intelligence, digital forensics, SIEM, and incident response through hands-on labs and real-world scenarios.",
+      "image": "https://cyberdefenders.org/media/certifications/blue-team-level-1-btl1.webp",
+      "url": "https://www.securityblue.team/why-btl1",
+      "cost": "£399",
+      "training_included": true,
+      "number_of_attempts": 2,
+      "job_roles_titles": [
+        "Digital Forensics Analyst",
+        "SOC Analyst",
+        "Security Analyst",
+        "Incident Responder",
+        "Threat Intelligence Analyst"
+      ],
+      "cert_type": "blue",
+      "total_votes": 47,
+      "market_presence": 1.0,
+      "cost_effectiveness": 3.595744680851064,
+      "skill_level": "Beginner",
+      "quality": 3.9148936170212765,
+      "satisfaction": 3.3,
+      "provider": {
+        "name": "Security Blue Team",
+        "url": "https://www.securityblue.team/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Phishing Analysis",
+        "Threat Intelligence and Detection",
+        "Digital Forensics",
+        "Security Information and Event Management (SIEM)",
+        "Incident Response and Management"
+      ],
+      "requirements_data": {
+        "knowledge": "Basic cybersecurity concepts",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "Hands-on practical exam",
+        "duration": "24 hours",
+        "report_required": false
+      },
+      "valid_for": "No expiration date"
+    },
+    {
+      "id": 15,
+      "slug": "web-300-oswe",
+      "title": "OffSec Web Expert",
+      "abbreviation": "OSWE",
+      "description": "OSWE assesses advanced skills in web application penetration testing, focusing on identifying, exploiting, and reporting vulnerabilities in web applications. It covers techniques such as source code analysis, SQL injection, and remote code execution.",
+      "image": "https://cyberdefenders.org/media/certifications/offsec-web-expert-oswe.webp",
+      "url": "https://www.offsec.com/courses/web-300/",
+      "cost": "$1,649",
+      "training_included": true,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "Web Application Penetration Tester",
+        "Security Consultant",
+        "Vulnerability Analyst",
+        "Application Security Engineer",
+        "Red Team Specialist"
+      ],
+      "cert_type": "red",
+      "total_votes": 9,
+      "market_presence": 0.53,
+      "cost_effectiveness": 3.2222222222222223,
+      "skill_level": "Expert",
+      "quality": 3.888888888888889,
+      "satisfaction": 3.89,
+      "provider": {
+        "name": "OffSec",
+        "url": "https://www.offsec.com/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Authentication Bypass",
+        "Remote Code Execution",
+        "SQL Injection",
+        ".NET Deserialization",
+        "Cross-site Scripting (XSS)",
+        "Server-Side Template Injection (SSTI)",
+        "Server-Side Request Forgery (SSRF)",
+        "XML External Entity (XXE) Processing"
+      ],
+      "requirements_data": {
+        "knowledge": "Familiarity with coding languages like Python, JavaScript, and Bash, experience with web proxies and understanding of web app attack vectors",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "Practical, real-world simulation",
+        "duration": "47 hours and 45 minutes, plus 24 hours to submit a report",
+        "report_required": true
+      },
+      "valid_for": "No expiration date"
+    },
+    {
+      "id": 40,
+      "slug": "comptia-advanced-security-practitioner-casp",
+      "title": "CompTIA Advanced Security Practitioner",
+      "abbreviation": "CASP+",
+      "description": "CASP+ focuses on security architecture, operations, engineering, and governance, risk, and compliance (GRC). It validates a candidate's ability to architect, implement, and manage complex security solutions across diverse environments.",
+      "image": "https://cyberdefenders.org/media/certifications/comptia-advanced-security-practitioner-casp.webp",
+      "url": "https://www.comptia.org/certifications/comptia-advanced-security-practitioner",
+      "cost": "$1,379",
+      "training_included": true,
+      "number_of_attempts": 2,
+      "job_roles_titles": [
+        "Senior Security Engineer",
+        "SOC Manager",
+        "Chief Information Security Officer",
+        "Security Analyst"
+      ],
+      "cert_type": "blue",
+      "total_votes": 7,
+      "market_presence": 0.15,
+      "cost_effectiveness": 3.2857142857142856,
+      "skill_level": "Advanced",
+      "quality": 3.857142857142857,
+      "satisfaction": 3.71,
+      "provider": {
+        "name": "Comptia",
+        "url": "https://www.comptia.org/home",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Security Architecture",
+        "Security Operations",
+        "Security Engineering and Cryptography",
+        "Governance, Risk, and Compliance"
+      ],
+      "requirements_data": {
+        "knowledge": "knowledge covered in CompTIA Security+ and CySA+ or equivalent",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "Multiple-choice and performance-based questions",
+        "duration": "165 minutes",
+        "report_required": false
+      },
+      "valid_for": "3 Years"
+    },
+    {
+      "id": 38,
+      "slug": "btl2",
+      "title": "Blue Team Level 2",
+      "abbreviation": "BTL2",
+      "description": "BTL2 validates practical skills in defending networks and systems from cyber threats. It assesses proficiency in vulnerability management, malware analysis, advanced SIEM, and threat hunting through a hands-on, realistic training and exam environment.",
+      "image": "https://cyberdefenders.org/media/certifications/blue-team-level-2-btl2.webp",
+      "url": "https://www.securityblue.team/btl2",
+      "cost": "£1,999",
+      "training_included": true,
+      "number_of_attempts": 2,
+      "job_roles_titles": [
+        "DFIR Specialist",
+        "Threat Hunter",
+        "Security Analyst",
+        "Security Consultant",
+        "Incident Responder"
+      ],
+      "cert_type": "blue",
+      "total_votes": 15,
+      "market_presence": 0.32,
+      "cost_effectiveness": 2.533333333333333,
+      "skill_level": "Intermediate",
+      "quality": 3.8,
+      "satisfaction": 3.24,
+      "provider": {
+        "name": "Security Blue Team",
+        "url": "https://www.securityblue.team/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Malware Analysis",
+        "Threat Hunting",
+        "Advanced SIEM",
+        "Vulnerability Management"
+      ],
+      "requirements_data": {
+        "knowledge": "equivalent to 2-4 years of experience in a practical cybersecurity role",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "Hands-on practical exam",
+        "duration": "72 hours",
+        "report_required": true
+      },
+      "valid_for": "No expiration date"
+    },
+    {
+      "id": 55,
+      "slug": "cbbh",
+      "title": "Certified Bug Bounty Hunter",
+      "abbreviation": "CBBH",
+      "description": "CBBH validates practical skills in web application security assessment and bug bounty hunting. It assesses knowledge in identifying, exploiting, and reporting vulnerabilities in real-world applications, emphasizing creative and effective exploitation techniques.",
+      "image": "https://cyberdefenders.org/media/certifications/certified-bug-bounty-hunter-cbbh.webp",
+      "url": "https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter",
+      "cost": "$355",
+      "training_included": true,
+      "number_of_attempts": 2,
+      "job_roles_titles": [
+        "Bug Bounty Hunter",
+        "Web Application Security Specialist",
+        "Vulnerability Analyst",
+        "Penetration Tester",
+        "Security Consultant"
+      ],
+      "cert_type": "red",
+      "total_votes": 4,
+      "market_presence": 0.24,
+      "cost_effectiveness": 4.25,
+      "skill_level": "Intermediate",
+      "quality": 3.75,
+      "satisfaction": 3.75,
+      "provider": {
+        "name": "HTB Academy",
+        "url": "https://academy.hackthebox.com/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Bug bounty hunting methodologies",
+        "Web app static and dynamic analysis",
+        "Information gathering techniques",
+        "Vulnerability identification and analysis"
+      ],
+      "requirements_data": {
+        "knowledge": "web application, web service and API underpinnings",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "Completion of Bug Bounty Hunter Job Role Path"
+      },
+      "exam_details_data": {
+        "format": "Hands-on practical exam",
+        "duration": "7 days",
+        "report_required": true
+      },
+      "valid_for": "No expiration date"
+    },
+    {
+      "id": 100,
+      "slug": "google-cybersecurity-proffessional-certificate",
+      "title": "Google Cybersecurity Proffessional certificate",
+      "abbreviation": "GCPC",
+      "description": "An entry‑level, career-oriented certification by Google delivered through Coursera. It guides total beginners through foundational cybersecurity topics via self-paced learning and hands-on labs—ideal for transitioning into IT security roles.",
+      "image": "https://cyberdefenders.org/media/certifications/image_11.png",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/5EI9ULLCTQCF",
+      "cost": "$49/month",
+      "training_included": true,
+      "number_of_attempts": 10,
+      "job_roles_titles": [
+        "Cybersecurity Analyst",
+        "Incident Responder",
+        "Security Operations Center (SOC) Analyst",
+        "Security Compliance Analyst",
+        "Information Security Analysts"
+      ],
+      "cert_type": "blue",
+      "total_votes": 3,
+      "market_presence": 0.06,
+      "cost_effectiveness": 3.3333333333333335,
+      "skill_level": "Beginner",
+      "quality": 3.6666666666666665,
+      "satisfaction": 3.0,
+      "provider": {
+        "name": "Google",
+        "url": "https://grow.google/intl/ALL_au/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Linux, SQL, Python fundamentals",
+        "Vulnerability Assessment & Management",
+        "Foundations of Cybersecurity",
+        "Risk Management and Governance",
+        "Network Security and Architecture",
+        "Security Tools and SIEM",
+        "Asset, Threats, and Vulnerabilities",
+        "Incident Detection and Response"
+      ],
+      "requirements_data": {
+        "knowledge": "None",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "Course-based assessments and hands-on projects",
+        "duration": "-",
+        "report_required": false
+      },
+      "valid_for": "Lifetime"
+    },
+    {
+      "id": 70,
+      "slug": "cisco-certified-cyberops-professional",
+      "title": "Cisco Certified CyberOps Professional",
+      "abbreviation": "CBRCOR",
+      "description": "CyberOps Professional certification proves you can reliably identify and respond to cybersecurity threats and incidents. Become one of the greatest assets in one of the most in-demand fields in IT.",
+      "image": "https://cyberdefenders.org/media/certifications/cyberopsprofessional.png",
+      "url": "https://www.cisco.com/site/us/en/learn/training-certifications/certifications/cyberops/cyberops-professional/index.html",
+      "cost": "$400",
+      "training_included": false,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "Cybersecurity Analyst",
+        "Network Security Engineer",
+        "SOC Analyst",
+        "Network Security Specialist"
+      ],
+      "cert_type": "blue",
+      "total_votes": 2,
+      "market_presence": 0.04,
+      "cost_effectiveness": 3.0,
+      "skill_level": "Advanced",
+      "quality": 3.5,
+      "satisfaction": 3.33,
+      "provider": null,
+      "domains_covered_titles": [
+        "Risk Management and Compliance",
+        "Event and Log Analysis",
+        "Incident Response and Management"
+      ],
+      "requirements_data": {
+        "knowledge": "",
+        "work_experience": "",
+        "prior_courses_and_certifications": ""
+      },
+      "exam_details_data": {
+        "format": "",
+        "duration": "",
+        "report_required": false
+      },
+      "valid_for": null
+    },
+    {
+      "id": 17,
+      "slug": "soc-200-osda",
+      "title": "OffSec Defense Analyst",
+      "abbreviation": "OSDA",
+      "description": "OSDA is designed to validate practical skills in defensive cybersecurity. OSDA assesses abilities in identifying, analyzing, and responding to security threats within a live lab environment, focusing on areas such as SIEM, incident response, and network monitoring.",
+      "image": "https://cyberdefenders.org/media/certifications/offsec-defense-analyst-osda.webp",
+      "url": "https://www.offsec.com/courses/soc-200/",
+      "cost": "$1,649",
+      "training_included": true,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "Security",
+        "Focused Network Engineer",
+        "Cybersecurity Analyst",
+        "Threat Hunter",
+        "SOC Analyst",
+        "Incident Responder"
+      ],
+      "cert_type": "blue",
+      "total_votes": 10,
+      "market_presence": 0.21,
+      "cost_effectiveness": 2.7,
+      "skill_level": "Intermediate",
+      "quality": 3.4,
+      "satisfaction": 3.13,
+      "provider": {
+        "name": "OffSec",
+        "url": "https://www.offsec.com/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Attack Methodology",
+        "Windows Client and Server Side Attacks",
+        "Linux Server Side Attacks",
+        "Network Detections",
+        "Antivirus Alerts and Evasion"
+      ],
+      "requirements_data": {
+        "knowledge": "A solid foundation in networking, Linux and Windows, and cybersecurity concepts",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "Practical exam",
+        "duration": "24 hours for the practical part plus an additional 24 hours for report submission",
+        "report_required": true
+      },
+      "valid_for": "No expiration date"
+    },
+    {
+      "id": 44,
+      "slug": "pen-300-oscp",
+      "title": "OffSec Experienced Pentester",
+      "abbreviation": "OSEP",
+      "description": "OSEP validates advanced penetration testing skills, focusing on evading defenses and exploiting hardened systems. It assesses abilities in custom exploit development, client-side attacks, and bypassing security measures.",
+      "image": "https://cyberdefenders.org/media/certifications/offsec-experienced-pentester-osep.webp",
+      "url": "https://www.offsec.com/courses/pen-300/",
+      "cost": "$1,649",
+      "training_included": true,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "Penetration Tester",
+        "Security Consultant",
+        "Red Team Operator",
+        "Cybersecurity Engineer",
+        "Vulnerability Analyst"
+      ],
+      "cert_type": "red",
+      "total_votes": 3,
+      "market_presence": 0.18,
+      "cost_effectiveness": 3.3333333333333335,
+      "skill_level": "Intermediate",
+      "quality": 3.3333333333333335,
+      "satisfaction": 3.33,
+      "provider": {
+        "name": "OffSec",
+        "url": "https://www.offsec.com/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Operating System and Programming Theory",
+        "Client Side Code Execution (Office and Jscript)",
+        "Process Injection, Migration, and Antivirus Evasion",
+        "Network Filter Bypassing",
+        "Linux and Windows Post-Exploitation"
+      ],
+      "requirements_data": {
+        "knowledge": "Skills covered in PEN-200 and OSCP certification or equivalent knowledge",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "Practical, hands-on lab",
+        "duration": "47 hours and 45 minutes, plus 24 hours for the report",
+        "report_required": true
+      },
+      "valid_for": "No expiration date"
+    },
+    {
+      "id": 39,
+      "slug": "comptia-cybersecurity-analyst-cysa",
+      "title": "CompTIA Cybersecurity Analyst",
+      "abbreviation": "CySA+",
+      "description": "CySA+ validates the ability to detect and respond to cybersecurity threats using security events analytics. It covers security analytics, intrusion detection and response, and the use of SIEM tools to identify and combat malware and advanced persistent threats.",
+      "image": "https://cyberdefenders.org/media/certifications/comptia-cybersecurity-analyst-cysa.webp",
+      "url": "https://www.comptia.org/certifications/cybersecurity-analyst",
+      "cost": "$1,111",
+      "training_included": true,
+      "number_of_attempts": 2,
+      "job_roles_titles": [
+        "Vulnerability Analyst",
+        "Cybersecurity Analyst",
+        "Incident Response Analyst",
+        "Threat Hunter",
+        "SOC Analyst"
+      ],
+      "cert_type": "blue",
+      "total_votes": 10,
+      "market_presence": 0.21,
+      "cost_effectiveness": 2.9,
+      "skill_level": "Intermediate",
+      "quality": 3.3,
+      "satisfaction": 2.97,
+      "provider": {
+        "name": "Comptia",
+        "url": "https://www.comptia.org/home",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Security Operations",
+        "Vulnerability Management",
+        "Incident Response and Management",
+        "Reporting and Communication",
+        "Threat Intelligence and Detection"
+      ],
+      "requirements_data": {
+        "knowledge": "knowledge covered in CompTIA Security+ or equivalent",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "Multiple choice and performance-based",
+        "duration": "165 minutes",
+        "report_required": false
+      },
+      "valid_for": "3 Years"
+    },
+    {
+      "id": 21,
+      "slug": "ecthp",
+      "title": "Certified Threat Hunting Professional",
+      "abbreviation": "eCTHP",
+      "description": "eCTHP validates a professional's ability to proactively hunt for and identify threats within a corporate network using advanced threat hunting techniques. It assesses practical skills in threat hunting through real-world scenarios and requires candidates to propose defense strategies.",
+      "image": "https://cyberdefenders.org/media/certifications/certified-threat-hunting-professional-ecthp.webp",
+      "url": "https://security.ine.com/certifications/ecthp-certification/",
+      "cost": "$400",
+      "training_included": false,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "Threat Hunter",
+        "Security Analyst",
+        "Incident Responder",
+        "Cybersecurity Consultant",
+        "SOC Analyst"
+      ],
+      "cert_type": "blue",
+      "total_votes": 17,
+      "market_presence": 0.36,
+      "cost_effectiveness": 2.9411764705882355,
+      "skill_level": "Intermediate",
+      "quality": 3.176470588235294,
+      "satisfaction": 3.12,
+      "provider": {
+        "name": "INE Security",
+        "url": "https://security.ine.com/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Network and Traffic Analysis",
+        "Threat Intelligence and Detection",
+        "Event and Log Analysis",
+        "Incident Response and Management",
+        "Forensics and Investigation"
+      ],
+      "requirements_data": {
+        "knowledge": "Advanced networking concepts, threat hunting processes, packet/traffic analysis, familiarity with tools like Wireshark, Redline, IOC editor, Sysmon, and Volatility",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "Practical, real-world simulation",
+        "duration": "48 hours for the exam, plus 48 hours to write the report",
+        "report_required": true
+      },
+      "valid_for": "3 Years"
+    },
+    {
+      "id": 18,
+      "slug": "security-plus",
+      "title": "CompTIA Security+",
+      "abbreviation": "Security+",
+      "description": "Security+ validates baseline skills in IT security, including assessing security posture, monitoring hybrid environments, and responding to security events. The certification assesses foundational knowledge necessary for cybersecurity roles.",
+      "image": "https://cyberdefenders.org/media/certifications/comptia-security-security.webp",
+      "url": "https://www.comptia.org/certifications/security",
+      "cost": "$2,599",
+      "training_included": true,
+      "number_of_attempts": 2,
+      "job_roles_titles": [
+        "Security Specialist",
+        "Security Administrator",
+        "Systems Administrator",
+        "Help Desk Analyst",
+        "Security Analyst"
+      ],
+      "cert_type": "blue",
+      "total_votes": 26,
+      "market_presence": 0.55,
+      "cost_effectiveness": 2.6153846153846154,
+      "skill_level": "Beginner",
+      "quality": 3.1538461538461537,
+      "satisfaction": 2.58,
+      "provider": {
+        "name": "Comptia",
+        "url": "https://www.comptia.org/home",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Identity and Access Management (IAM)",
+        "Risk Management and Compliance",
+        "Network security",
+        "Application and host security",
+        "Operational security"
+      ],
+      "requirements_data": {
+        "knowledge": "Networking and basic IT security concepts",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "Multiple choice and performance-based questions",
+        "duration": "90 minutes",
+        "report_required": false
+      },
+      "valid_for": "3 Years"
+    },
+    {
+      "id": 53,
+      "slug": "ejpt",
+      "title": "Junior Penetration Tester",
+      "abbreviation": "eJPT",
+      "description": "eJPT validates the foundational skills required for an entry-level penetration tester. It assesses proficiency in penetration testing methodologies, host and network auditing, and web application testing through hands-on, practical lab exercises.",
+      "image": "https://cyberdefenders.org/media/certifications/junior-penetration-tester-ejpt.webp",
+      "url": "https://security.ine.com/certifications/ejpt-certification/",
+      "cost": "$249",
+      "training_included": true,
+      "number_of_attempts": 2,
+      "job_roles_titles": [
+        "Junior Penetration Tester",
+        "Security Analyst",
+        "IT Security Consultant",
+        "Vulnerability Assessor"
+      ],
+      "cert_type": "red",
+      "total_votes": 11,
+      "market_presence": 0.65,
+      "cost_effectiveness": 3.2727272727272725,
+      "skill_level": "Beginner",
+      "quality": 3.090909090909091,
+      "satisfaction": 2.82,
+      "provider": {
+        "name": "INE Security",
+        "url": "https://security.ine.com/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Network and Traffic Analysis",
+        "Host and Networking Auditing",
+        "Host and Network Penetration Testing",
+        "Web and Application Security"
+      ],
+      "requirements_data": {
+        "knowledge": "Basic understanding of networks and cybersecurity concepts",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "Practical with hands-on lab questions",
+        "duration": "48 hours",
+        "report_required": false
+      },
+      "valid_for": "3 Years"
+    },
+    {
+      "id": 106,
+      "slug": "tryhackme-jr-penetration-tester-pt1",
+      "title": "Jr Penetration Tester (PT1)",
+      "abbreviation": "PT1",
+      "description": "The Jr Penetration Tester (PT1) certification is entry-level, hands-on and built by industry experts. It demonstrates real-world adversarial thinking, validates offensive skills and helps kickstart careers in penetration testing.",
+      "image": "https://cyberdefenders.org/media/certifications/1750278182485_3.png",
+      "url": "https://tryhackme.com/certification/junior-penetration-tester",
+      "cost": "$297",
+      "training_included": true,
+      "number_of_attempts": 2,
+      "job_roles_titles": [
+        "Junior Penetration Tester",
+        "Red Team Analyst",
+        "Application Security Tester",
+        "Security analysts"
+      ],
+      "cert_type": "red",
+      "total_votes": 1,
+      "market_presence": 0.06,
+      "cost_effectiveness": 2.0,
+      "skill_level": "Intermediate",
+      "quality": 3.0,
+      "satisfaction": 2.67,
+      "provider": {
+        "name": "TryHackMe",
+        "url": "https://tryhackme.com",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Web and Application Security",
+        "Privilege Escalation",
+        "Network Penetration Testing",
+        "Active Directory Security",
+        "Report Writing and Documentation"
+      ],
+      "requirements_data": {
+        "knowledge": "Foundational penetration testing skills, including tool usage (e.g., Burp Suite, Metasploit), reconnaissance (Nmap), vulnerability research, and privilege escalation",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "100% hands-on practical exam",
+        "duration": "48 hours",
+        "report_required": true
+      },
+      "valid_for": "3 years"
+    },
+    {
+      "id": 105,
+      "slug": "giac-enterprise-incident-responder-geir",
+      "title": "GIAC Enterprise Incident Response",
+      "abbreviation": "GEIR",
+      "description": "The GIAC Enterprise Incident Response (GEIR) certification validates a practitioner's mastery of enterprise-class incident response and threat hunting tools and techniques. GEIR certification holders have demonstrated the ability to use analysis methodologies to understand attacker movement across varying functions and operating systems.",
+      "image": "https://cyberdefenders.org/media/certifications/GEIR.png",
+      "url": "https://www.giac.org/certifications/enterprise-incident-responder-geir/",
+      "cost": "$999",
+      "training_included": false,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "Incident Response Team Leads and Advanced Practitioners",
+        "Threat Hunting Professionals",
+        "Experienced Digital Forensic Analysts",
+        "Enterprise Detection Engineers"
+      ],
+      "cert_type": "blue",
+      "total_votes": 1,
+      "market_presence": 0.02,
+      "cost_effectiveness": 2.0,
+      "skill_level": "Intermediate",
+      "quality": 3.0,
+      "satisfaction": 2.67,
+      "provider": {
+        "name": "GIAC",
+        "url": "https://www.giac.org/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Incident Response Team Management and Coordination",
+        "Enterprise Incident Detection and Threat Hunting",
+        "Large Scale Event Correlation and Timeline Analysis",
+        "Multi-platform Artifact Analysis",
+        "Federal Agents and Law Enforcement Professionals",
+        "SANS DFIR Alumni looking to apply their forensic skills at scale."
+      ],
+      "requirements_data": {
+        "knowledge": "Advanced knowledge of enterprise-level incident response and threat hunting.",
+        "work_experience": "Practical work experience is recommended",
+        "prior_courses_and_certifications": "The primary associated course is SANS FOR608: Enterprise-Class Incident Response & Threat Hunting"
+      },
+      "exam_details_data": {
+        "format": "Proctored, multiple-choice exam",
+        "duration": "3 hours",
+        "report_required": false
+      },
+      "valid_for": "4 years"
+    },
+    {
+      "id": 57,
+      "slug": "crtp",
+      "title": "Certified Red Team Professional",
+      "abbreviation": "CRTP",
+      "description": "CRTP focuses on simulating advanced cyberattacks in enterprise environments, particularly targeting Active Directory. CRTP validates skills in enumerating, exploiting, and maintaining access in Windows domains using real-world techniques and tools.",
+      "image": "https://cyberdefenders.org/media/certifications/certified-red-team-professional-crtp.webp",
+      "url": "https://www.alteredsecurity.com/post/certified-red-team-professional-crtp",
+      "cost": "$499",
+      "training_included": true,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "Cybersecurity Engineer",
+        "Penetration Tester",
+        "Red Team Operator",
+        "Security Consultant"
+      ],
+      "cert_type": "red",
+      "total_votes": 4,
+      "market_presence": 0.24,
+      "cost_effectiveness": 4.0,
+      "skill_level": "Intermediate",
+      "quality": 3.0,
+      "satisfaction": 3.25,
+      "provider": {
+        "name": "Altered Security",
+        "url": "https://www.alteredsecurity.com/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Active Directory Enumeration",
+        "Privilege Escalation",
+        "Domain and Forest Persistence",
+        "Bypassing Defenses"
+      ],
+      "requirements_data": {
+        "knowledge": "Basic understanding of Active Directory and Windows command line",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "practical exam",
+        "duration": "24 hours",
+        "report_required": false
+      },
+      "valid_for": "3 Years"
+    },
+    {
+      "id": 62,
+      "slug": "certified-red-team-master-crtm",
+      "title": "Certified Red Team Master",
+      "abbreviation": "CRTM",
+      "description": "A CRTM holder is a specialist in enterprise AD security. They have the ability to identify, exploit, demonstrate and fix security issues in an enterprise.\r\n\r\nThey have demonstrated the ability to understand and secure the modern enterprise network by executing a silent red team operation starting from a beachhead leading to compromise of multiple forests.",
+      "image": "https://cyberdefenders.org/media/certifications/CRTM.png",
+      "url": "https://www.alteredsecurity.com/gcb",
+      "cost": "$399",
+      "training_included": true,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "Cybersecurity Engineer",
+        "Penetration Tester",
+        "Security Consultant",
+        "Red Team Operator"
+      ],
+      "cert_type": "red",
+      "total_votes": 1,
+      "market_presence": 0.06,
+      "cost_effectiveness": 3.0,
+      "skill_level": "Advanced",
+      "quality": 3.0,
+      "satisfaction": 3.33,
+      "provider": {
+        "name": "Altered Security",
+        "url": "https://www.alteredsecurity.com/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Active Directory Enumeration",
+        "Active Directory exploitation",
+        "Privilege Escalation",
+        "Domain and Forest Persistence",
+        "Adversary Simulation",
+        "Command & Control",
+        "Bypassing Defenses",
+        "Active Directory Attack Lifecycle"
+      ],
+      "requirements_data": {
+        "knowledge": "",
+        "work_experience": "",
+        "prior_courses_and_certifications": ""
+      },
+      "exam_details_data": {
+        "format": "",
+        "duration": "",
+        "report_required": false
+      },
+      "valid_for": "3 Years"
+    },
+    {
+      "id": 83,
+      "slug": "certified-master-cyber-forensic-investigator-cmcfi",
+      "title": "Certified Master Cyber Forensic Investigator",
+      "abbreviation": "CMCFI",
+      "description": "Individuals who pass all four certification exams C)SP, C)DFE, C)NFE and C)CSA will earn the Master Cyber Forensic Investigator Certification. A Master Forensics Investigator will have the knowledge, skills, and abilities to examin intrusions for both large and small organizations as well as performing detailed analysis of systems, networks and servers for intrusion discovery purposes. These highly trained and flexible digital forensic specialists are often called as expert witnesses in trial scenarios to present their findings, so a deep knowledge of investigative report writing and some understanding of the legalities surrounding cyber crime is valuable.",
+      "image": "https://cyberdefenders.org/media/certifications/Screenshot_from_2025-04-17_12-53-16.png",
+      "url": "https://mile2.com/master-certifications/",
+      "cost": "$3180",
+      "training_included": false,
+      "number_of_attempts": 0,
+      "job_roles_titles": [],
+      "cert_type": "blue",
+      "total_votes": 1,
+      "market_presence": 0.02,
+      "cost_effectiveness": 3.0,
+      "skill_level": "Intermediate",
+      "quality": 3.0,
+      "satisfaction": 3.0,
+      "provider": { "name": "Mile2", "url": "https://mile2.com", "image": "" },
+      "domains_covered_titles": [],
+      "requirements_data": {
+        "knowledge": "",
+        "work_experience": "",
+        "prior_courses_and_certifications": ""
+      },
+      "exam_details_data": {
+        "format": "",
+        "duration": "",
+        "report_required": false
+      },
+      "valid_for": null
+    },
+    {
+      "id": 69,
+      "slug": "cisco-certified-cyberops-associate",
+      "title": "Cisco Certified CyberOps Associate",
+      "abbreviation": "CBROPS",
+      "description": "A CyberOps Associate certification is proof that you’ve mastered the essentials to build your IT career in cybersecurity.",
+      "image": "https://cyberdefenders.org/media/certifications/cyberopsassociate.png",
+      "url": "https://www.cisco.com/site/us/en/learn/training-certifications/certifications/cyberops/cyberops-associate/index.html",
+      "cost": "$300",
+      "training_included": false,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "Cybersecurity Analyst",
+        "Network Security Engineer",
+        "SOC Analyst",
+        "Network Security Specialist"
+      ],
+      "cert_type": "blue",
+      "total_votes": 1,
+      "market_presence": 0.02,
+      "cost_effectiveness": 3.0,
+      "skill_level": "Beginner",
+      "quality": 3.0,
+      "satisfaction": 2.67,
+      "provider": null,
+      "domains_covered_titles": [
+        "Security Information and Event Management (SIEM)",
+        "Network and Traffic Analysis",
+        "Network security",
+        "Application and host security"
+      ],
+      "requirements_data": {
+        "knowledge": "",
+        "work_experience": "",
+        "prior_courses_and_certifications": ""
+      },
+      "exam_details_data": {
+        "format": "",
+        "duration": "",
+        "report_required": false
+      },
+      "valid_for": "3 Years"
+    },
+    {
+      "id": 72,
+      "slug": "certified-cyber-defense-analyst",
+      "title": "Certified Cyber Defense Analyst",
+      "abbreviation": "CCDA",
+      "description": "The Cyber Defence Analyst (CCDA) certification trains professionals to detect and investigate phishing, web-based, network-based, and host-centric attacks. It covers defensive solutions like incident response, SIEM, and network monitoring. The certification provides practical expertise in threat detection and structured incident response within an organization's cyber-defense strategy.",
+      "image": "https://cyberdefenders.org/media/certifications/CCDA-2.png",
+      "url": "https://cyberwarfare.live/product/cyber-defence-analyst-ccda/",
+      "cost": "$149",
+      "training_included": false,
+      "number_of_attempts": 2,
+      "job_roles_titles": ["Cybersecurity Analyst"],
+      "cert_type": "blue",
+      "total_votes": 2,
+      "market_presence": 0.04,
+      "cost_effectiveness": 3.0,
+      "skill_level": "Beginner",
+      "quality": 3.0,
+      "satisfaction": 2.5,
+      "provider": {
+        "name": "Cyberwarfare Labs",
+        "url": "https://cyberwarfare.live/",
+        "image": ""
+      },
+      "domains_covered_titles": [],
+      "requirements_data": {
+        "knowledge": "",
+        "work_experience": "",
+        "prior_courses_and_certifications": ""
+      },
+      "exam_details_data": {
+        "format": "",
+        "duration": "",
+        "report_required": false
+      },
+      "valid_for": null
+    },
+    {
+      "id": 77,
+      "slug": "certified-mobile-security-engineer-cmse",
+      "title": "Certified Mobile Security Engineer",
+      "abbreviation": "CMSE",
+      "description": "The CMSE certification attests to your comprehensive grasp of advanced mobile security domains, encompassing iOS and Android application security, dynamic and static analysis techniques, reverse engineering of mobile applications, identification of application vulnerabilities and platform-specific exploits, circumvention of anti-debugging and obfuscation measures, behavior profiling of malicious apps, and advanced threat detection. This certification is designed for experienced security engineers, mobile developers, penetration testers, and individuals passionate about safeguarding mobile ecosystems",
+      "image": "https://cyberdefenders.org/media/certifications/CMSE_logo.png",
+      "url": "https://8ksec.io/cmse/",
+      "cost": "$1199",
+      "training_included": true,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "security consultants",
+        "Mobile Security Engineer",
+        "penetration testers"
+      ],
+      "cert_type": "red",
+      "total_votes": 1,
+      "market_presence": 0.06,
+      "cost_effectiveness": 2.0,
+      "skill_level": "Beginner",
+      "quality": 3.0,
+      "satisfaction": 2.33,
+      "provider": { "name": "8KSEC", "url": "https://8ksec.io/", "image": "" },
+      "domains_covered_titles": [
+        "iOS Application Security",
+        "Android Application Security",
+        "Cross Platform Threat Detection",
+        "Dynamic Analysis",
+        "Static Analysis",
+        "Reverse Engineering",
+        "Behavior Profiling:",
+        "Advanced Threat Mitigation",
+        "Vulnerability Exploitation"
+      ],
+      "requirements_data": {
+        "knowledge": "Strong foundation in mobile security concepts, penetration testing techniques, familiarity with mobile platforms’ architecture, proficiency in using mobile security analysis tools, and experience in both iOS and Android application security.",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "Practical, scenario-based exam",
+        "duration": "48 hours",
+        "report_required": false
+      },
+      "valid_for": null
+    },
+    {
+      "id": 68,
+      "slug": "cybersec-first-responder",
+      "title": "Cybersec First Responder",
+      "abbreviation": "CFR-410",
+      "description": "CyberSec First Responder® (CFR) is a comprehensive, in-demand certification designed to validate the knowledge and skills required to protect these critical information systems before, during, and after an incident.",
+      "image": "https://cyberdefenders.org/media/certifications/CFR-410.png",
+      "url": "https://certnexus.com/cybersec-first-responder-cfr/",
+      "cost": "$350",
+      "training_included": false,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "Cybersecurity Analyst",
+        "Incident Responder",
+        "Incident Response Analyst"
+      ],
+      "cert_type": "blue",
+      "total_votes": 1,
+      "market_presence": 0.02,
+      "cost_effectiveness": 3.0,
+      "skill_level": "Beginner",
+      "quality": 3.0,
+      "satisfaction": 2.67,
+      "provider": null,
+      "domains_covered_titles": [
+        "Network and Traffic Analysis",
+        "Event and Log Analysis",
+        "Incident Response and Management",
+        "Vulnerability Management",
+        "Digital Forensics"
+      ],
+      "requirements_data": {
+        "knowledge": "",
+        "work_experience": "",
+        "prior_courses_and_certifications": ""
+      },
+      "exam_details_data": {
+        "format": "",
+        "duration": "",
+        "report_required": false
+      },
+      "valid_for": "3 Years"
+    },
+    {
+      "id": 84,
+      "slug": "certified-master-intrusion-prevention-specialist-cmips",
+      "title": "Certified Master Intrusion Prevention Specialist",
+      "abbreviation": "CMIPS",
+      "description": "Individuals who pass all four certification exams C)VA, C)PEH, C)PTE and C)PTC will earn the Master Intrusion Prevention Specialist certification. This person will be able to assess a company's security posture, perform in-depth penetration testing using a variety of assessment tools, and set up dynamic defenses to prevent intrusion. They will have a firm understanding of cyrptography and various attacks and be able to execute the five key elements of a Pen Test: Information Gathering, Scanning, Enumeration, Exploitation and Reporting. They will be able to function within a larger cybersecurity team and protect operating systems from attack.",
+      "image": "https://cyberdefenders.org/media/certifications/Screenshot_from_2025-04-17_12-31-03_1.png",
+      "url": "https://mile2.com/master-certifications/",
+      "cost": "$3180",
+      "training_included": false,
+      "number_of_attempts": 0,
+      "job_roles_titles": [],
+      "cert_type": "blue",
+      "total_votes": 1,
+      "market_presence": 0.02,
+      "cost_effectiveness": 3.0,
+      "skill_level": "Advanced",
+      "quality": 3.0,
+      "satisfaction": 3.33,
+      "provider": { "name": "Mile2", "url": "https://mile2.com", "image": "" },
+      "domains_covered_titles": [],
+      "requirements_data": {
+        "knowledge": "",
+        "work_experience": "",
+        "prior_courses_and_certifications": ""
+      },
+      "exam_details_data": {
+        "format": "",
+        "duration": "",
+        "report_required": false
+      },
+      "valid_for": null
+    },
+    {
+      "id": 63,
+      "slug": "certified-red-team-expert-crte",
+      "title": "Certified Red Team Expert",
+      "abbreviation": "CRTE",
+      "description": "CRTE is the next level after CRTP. CRTE is one of the well-known certifications that establishes your credentials as a security professional who has intermediate/expert level of hands-on and understanding of red team, enterprise security and Active Directory security skills. \r\n\r\nA certificate holder has demonstrated the capability of enumerating and understanding an unknown Windows network and can identify misconfigurations, functionality abuse and trusts abuse. She can use, write and modify open source tools and can abuse other built-in tools to perform enumeration, local privileges escalation, impersonation, pivoting, whitelisting bypasses, and antivirus evasion as well as identify sensitive data with minimal chances of detection.",
+      "image": "https://cyberdefenders.org/media/certifications/CRTE.png",
+      "url": "https://www.alteredsecurity.com/redteamlab",
+      "cost": "$299",
+      "training_included": true,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "Cybersecurity Engineer",
+        "Penetration Tester",
+        "Security Consultant",
+        "Red Team Operator"
+      ],
+      "cert_type": "red",
+      "total_votes": 1,
+      "market_presence": 0.06,
+      "cost_effectiveness": 3.0,
+      "skill_level": "Intermediate",
+      "quality": 3.0,
+      "satisfaction": 3.0,
+      "provider": {
+        "name": "Altered Security",
+        "url": "https://www.alteredsecurity.com/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Active Directory Enumeration",
+        "Active Directory exploitation",
+        "Privilege Escalation",
+        "Domain and Forest Persistence",
+        "Adversary Simulation",
+        "Command & Control",
+        "Bypassing Defenses",
+        "Active Directory Attack Lifecycle"
+      ],
+      "requirements_data": {
+        "knowledge": "",
+        "work_experience": "",
+        "prior_courses_and_certifications": ""
+      },
+      "exam_details_data": {
+        "format": "",
+        "duration": "",
+        "report_required": false
+      },
+      "valid_for": "3 Years"
+    },
+    {
+      "id": 20,
+      "slug": "ecir",
+      "title": "Certified Incident Responder",
+      "abbreviation": "eCIR",
+      "description": "eCIR evaluates a professional's ability to handle and respond to security incidents using advanced incident response techniques in realistic scenarios. It focuses on skills such as network traffic analysis, event/log analysis, and the use of tools like Wireshark, ELK, and Splunk.",
+      "image": "https://cyberdefenders.org/media/certifications/certified-incident-responder-ecir.webp",
+      "url": "https://security.ine.com/certifications/ecir-certification/",
+      "cost": "$400",
+      "training_included": false,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "Incident Responder",
+        "Security Analyst",
+        "Cybersecurity Consultant",
+        "Forensic Analyst",
+        "SOC Analyst"
+      ],
+      "cert_type": "blue",
+      "total_votes": 21,
+      "market_presence": 0.45,
+      "cost_effectiveness": 2.857142857142857,
+      "skill_level": "Intermediate",
+      "quality": 2.8095238095238093,
+      "satisfaction": 2.73,
+      "provider": {
+        "name": "INE Security",
+        "url": "https://security.ine.com/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Network and Traffic Analysis",
+        "Threat Intelligence and Detection",
+        "Event and Log Analysis",
+        "Incident Response and Management",
+        "Forensics and Investigation"
+      ],
+      "requirements_data": {
+        "knowledge": "Advanced networking concepts, incident response processes, packet/traffic analysis, familiarity with tools like Wireshark, ELK & Splunk",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "Practical, real-world simulation",
+        "duration": "48 hours for the practical exam, plus 48 hours to write the report",
+        "report_required": true
+      },
+      "valid_for": "3 Years"
+    },
+    {
+      "id": 50,
+      "slug": "certified-information-systems-auditor",
+      "title": "Certified Information Systems Auditor",
+      "abbreviation": "CISA",
+      "description": "CISA validates an individual's expertise in auditing, controlling, and assuring information systems. It ensures proficiency in assessing vulnerabilities, reporting on compliance, and instituting controls within an enterprise.",
+      "image": "https://cyberdefenders.org/media/certifications/certified-information-systems-auditor-cisa.webp",
+      "url": "https://www.isaca.org/credentialing/cisa",
+      "cost": "$760",
+      "training_included": false,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "IT Auditor",
+        "IT Security Manager",
+        "Compliance Manager",
+        "Information Security Analyst",
+        "Risk Manager"
+      ],
+      "cert_type": "infoSec",
+      "total_votes": 4,
+      "market_presence": 0.67,
+      "cost_effectiveness": 2.5,
+      "skill_level": "Beginner",
+      "quality": 2.75,
+      "satisfaction": 2.58,
+      "provider": {
+        "name": "ISACA",
+        "url": "https://www.isaca.org/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Auditing Information Systems",
+        "IT Governance and Management",
+        "Systems Acquisition, Development, Implementation",
+        "Operations, Maintenance, Service Management",
+        "Protection of Information Assets"
+      ],
+      "requirements_data": {
+        "knowledge": "Core skills in IT auditing, control, and security",
+        "work_experience": "5 years in IS/IT auditing, control, assurance, or security",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "Multiple-choice",
+        "duration": "4 hours",
+        "report_required": false
+      },
+      "valid_for": "3 Years"
+    },
+    {
+      "id": 98,
+      "slug": "isc2-certified-in-cybersecurity-cc",
+      "title": "Certified in Cybersecurity",
+      "abbreviation": "CC",
+      "description": "An entry-level certification by ISC² designed to validate foundational knowledge in cybersecurity across five key domains—ideal for newcomers with no prerequisites",
+      "image": "https://cyberdefenders.org/media/certifications/cc.png",
+      "url": "https://www.isc2.org/certifications/cc",
+      "cost": "Free",
+      "training_included": true,
+      "number_of_attempts": 2,
+      "job_roles_titles": [
+        "Entry-Level Cybersecurity Analyst",
+        "College students or recent graduates",
+        "IT professionals"
+      ],
+      "cert_type": "blue",
+      "total_votes": 3,
+      "market_presence": 0.06,
+      "cost_effectiveness": 4.0,
+      "skill_level": "Novice",
+      "quality": 2.6666666666666665,
+      "satisfaction": 2.56,
+      "provider": {
+        "name": "ISC2",
+        "url": "https://www.isc2.org/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Security Operations",
+        "Security Principles",
+        "Business Continuity (BC), Disaster Recovery (DR) & Incident Response Concepts",
+        "Network security",
+        "Access Controls Concepts"
+      ],
+      "requirements_data": {
+        "knowledge": "Basic understanding of IT and cybersecurity concepts is helpful but not required",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "100 multiple choice questions",
+        "duration": "2 hours",
+        "report_required": false
+      },
+      "valid_for": "3 years"
+    },
+    {
+      "id": 89,
+      "slug": "security-analyst-level-1-sal1",
+      "title": "Security Analyst Level 1",
+      "abbreviation": "SAL1",
+      "description": "The TryHackMe Security Analyst Level 1 certification validates foundational skills in cybersecurity analysis, focusing on network security, threat detection, and incident response. It is designed for beginners to demonstrate practical abilities in identifying and mitigating security threats using hands-on labs and real-world scenarios.",
+      "image": "https://cyberdefenders.org/media/certifications/sla1_1.png",
+      "url": "https://tryhackme.com/certification/security-analyst-level-1",
+      "cost": "$349",
+      "training_included": true,
+      "number_of_attempts": 2,
+      "job_roles_titles": [
+        "Cybersecurity Analyst",
+        "Junior Security Analyst",
+        "SOC Analyst (Level 1)",
+        "Incident Response Analyst"
+      ],
+      "cert_type": "blue",
+      "total_votes": 4,
+      "market_presence": 0.09,
+      "cost_effectiveness": 2.25,
+      "skill_level": "Beginner",
+      "quality": 2.25,
+      "satisfaction": 2.17,
+      "provider": {
+        "name": "TryHackMe",
+        "url": "https://tryhackme.com",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Incident Response Basics",
+        "Log Analysis",
+        "SIEM Fundamentals",
+        "Linux and Windows Security Basics",
+        "Network Security Fundamentals",
+        "Threat Detection and Monitoring"
+      ],
+      "requirements_data": {
+        "knowledge": "Basic understanding of networking, operating systems, and cyber security fundamentals.",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "multiple choice questions and practical hands-on scenarios",
+        "duration": "24 hours",
+        "report_required": true
+      },
+      "valid_for": "3 Years"
+    },
+    {
+      "id": 54,
+      "slug": "ceh-certified-ethical-hacker-ceh-certification",
+      "title": "Certified Ethical Hacker",
+      "abbreviation": "CEH",
+      "description": "CEH validates skills in identifying and exploiting vulnerabilities in computer systems and networks. CEH assesses knowledge of ethical hacking methodologies, including reconnaissance, scanning, gaining access, maintaining access, and covering tracks.",
+      "image": "https://cyberdefenders.org/media/certifications/certified-ethical-hacker-ceh.webp",
+      "url": "https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/",
+      "cost": "$1,199",
+      "training_included": false,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "Ethical Hacker",
+        "Network Security Specialist",
+        "Information Security Consultant",
+        "Security Analyst",
+        "Penetration Tester"
+      ],
+      "cert_type": "red",
+      "total_votes": 9,
+      "market_presence": 0.53,
+      "cost_effectiveness": 2.111111111111111,
+      "skill_level": "Beginner",
+      "quality": 2.111111111111111,
+      "satisfaction": 2.19,
+      "provider": {
+        "name": "EC-Council",
+        "url": "https://www.eccouncil.org/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Reconnaissance Techniques",
+        "Attack Phases and Techniques",
+        "Network and Perimeter Hacking",
+        "Web Application Hacking"
+      ],
+      "requirements_data": {
+        "knowledge": "basic understanding of networks, operating systems, and programming",
+        "work_experience": "Two years in information security (waived if an official EC-Council training course is completed)",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "Multiple-choice and practical",
+        "duration": "4 hours (multiple-choice), 6 hours (practical)",
+        "report_required": false
+      },
+      "valid_for": "3 Years"
+    },
+    {
+      "id": 80,
+      "slug": "certified-network-defender-cnd",
+      "title": "Certified Network Defender",
+      "abbreviation": "CND",
+      "description": "The Certified Network Defender (CND) certification program focuses on creating Network Administrators who are trained on protecting, detecting and responding to the threats on the network. Network administrators are usually familiar with network components, traffic, performance and utilization, network topology, location of each system, security policy, etc. A CND will get the fundamental understanding of the true construct of data transfer, network technologies, software technologies so that the they understand how networks operate, understand what software is automating and how to analyze the subject material. In addition, network defense fundamentals, the application of network security controls, protocols, perimeter appliances, secure IDS, VPN and firewall configuration, intricacies of network traffic signature, analysis and vulnerability scanning are also covered which will help the Network Administrator design greater network security policies and successful incident response plans. These skills will help the Network Administrators foster resiliency and continuity of operations during attacks.",
+      "image": "https://cyberdefenders.org/media/certifications/square_logo.png",
+      "url": "https://www.eccouncil.org/train-certify/certified-network-security-course/",
+      "cost": "$550",
+      "training_included": false,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "Incident Responder",
+        "Network Security Engineer",
+        "Network Administrator",
+        "Security analysts",
+        "Network Defense Technician"
+      ],
+      "cert_type": "blue",
+      "total_votes": 1,
+      "market_presence": 0.02,
+      "cost_effectiveness": 2.0,
+      "skill_level": "Intermediate",
+      "quality": 2.0,
+      "satisfaction": 2.33,
+      "provider": {
+        "name": "EC-Council",
+        "url": "https://www.eccouncil.org/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Network Security Controls, Protocols, and Devices",
+        "Physical Security",
+        "Application and host security",
+        "Secure Firewall Configuration and Management",
+        "Secure VPN Configuration and Management",
+        "Secure IDS Configuration and Management",
+        "Wireless Network Defense",
+        "Network Security Policy Design and Implementation",
+        "Network Traffic Monitoring and Analysis",
+        "Network Risk and Vulnerability Management",
+        "Data Backup and Recovery",
+        "Computer Network and Defense Fundamentals",
+        "Network Security Threats, Vulnerabilities, and Attacks",
+        "Network Incident Response and Management"
+      ],
+      "requirements_data": {
+        "knowledge": "Understanding of network protocols (TCP/IP, DNS, HTTP, etc.), Network security technologies (firewalls, IDS/IPS, VPNs), Network traffic monitoring and analysis, Incident response procedures, Vulnerability assessment techniques, Secure network design principles",
+        "work_experience": "To be eligible for the CND certification without taking official training, you must have at least 2 years of work experience in one or more of the following areas:Network defense management, Perimeter protection, Endpoint security ,Application/data protection, Cloud, wireless, or virtual network security, Incident prediction and response\r\n\r\nAlternatively, you can qualify by completing an official EC-Council training",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "Proctored, Multiple choice questions",
+        "duration": "4 Hours",
+        "report_required": false
+      },
+      "valid_for": "3 Years"
+    },
+    {
+      "id": 81,
+      "slug": "certified-cyber-security-analyst-ccsa",
+      "title": "Certified Cyber Security Analyst",
+      "abbreviation": "CCSA",
+      "description": "The person who carries this certification should be able to use data collected from a variety of cyber defense tools (e.g., IDS alerts, firewalls, network traffic logs) to analyze events that occur within their environments for the purposes of mitigating threats. Mile2's C)CSA Certification aims to ensure that the holder has a broad base of knowledge covering a large variety of areas required to analyze cybersecurity systems, develop reports, and suggest improvements to ensure that the system is able to effectively detect and deter intrusion.",
+      "image": "https://cyberdefenders.org/media/certifications/CCSA.jpeg",
+      "url": "https://mile2.com/ccsa-outline/",
+      "cost": "$275",
+      "training_included": false,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "Digital Forensics Analyst",
+        "SOC Analyst",
+        "Incident Handler",
+        "Security Professionals",
+        "Cybersecurity Analysts"
+      ],
+      "cert_type": "blue",
+      "total_votes": 1,
+      "market_presence": 0.02,
+      "cost_effectiveness": 2.0,
+      "skill_level": "Intermediate",
+      "quality": 2.0,
+      "satisfaction": 2.33,
+      "provider": { "name": "Mile2", "url": "https://mile2.com", "image": "" },
+      "domains_covered_titles": [
+        "Network and Traffic Analysis",
+        "Defeating Red Teams with Purple Team Tactics",
+        "Blue Team Principles",
+        "Assessing Organizational Defenses",
+        "Digital Forensics",
+        "Malware Analysis",
+        "Leveraging SIEM for Advanced Analytics"
+      ],
+      "requirements_data": {
+        "knowledge": "Understanding of basic cybersecurity principles and networking",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "Multiple Choice Questions",
+        "duration": "2 hours",
+        "report_required": false
+      },
+      "valid_for": "3 Years"
+    },
+    {
+      "id": 87,
+      "slug": "certified-digital-forensics-examiner-cdfe",
+      "title": "Certified Digital Forensics Examiner",
+      "abbreviation": "CDFE",
+      "description": "The Certified Digital Forensics Examiner (C)DFE) certification is designed to train Cyber Crime and Fraud Investigators. Students are taught electronic discovery and advanced investigation techniques. This course is essential for anyone encountering digital evidence while conducting an investigation.",
+      "image": "https://cyberdefenders.org/media/certifications/convert_1_3frAohZ.png",
+      "url": "https://mile2.com/cdfe-outline/",
+      "cost": "$550",
+      "training_included": false,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "Virtualization Admins",
+        "Cloud Security Officers",
+        "CIO",
+        "Virtualization and Cloud Auditors",
+        "Virtualization and Cloud Compliance Officers"
+      ],
+      "cert_type": "blue",
+      "total_votes": 1,
+      "market_presence": 0.02,
+      "cost_effectiveness": 2.0,
+      "skill_level": "Intermediate",
+      "quality": 2.0,
+      "satisfaction": 2.33,
+      "provider": { "name": "Mile2", "url": "https://mile2.com", "image": "" },
+      "domains_covered_titles": [
+        "Computer Forensic Incidents",
+        "Investigative Theory and Process",
+        "Digital Acquisition and Analysis Tools",
+        "Disk and Storage Forensics",
+        "Live Acquisitions",
+        "Windows, Linux, and Mac Forensics",
+        "Examination and Digital Evidence Protocols",
+        "Artifact Recovery",
+        "eDiscovery and ESI",
+        "Mobile Forensics",
+        "Incident Handling",
+        "Reporting"
+      ],
+      "requirements_data": {
+        "knowledge": "Basic understanding of computer systems and networks, Basics of digital forensics processes, Familiarity with forensic tools (e.g., EnCase, FTK), Incident response fundamentals, Knowledge of file systems and data recovery",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "Multiple choice questions",
+        "duration": "2 hours",
+        "report_required": false
+      },
+      "valid_for": "3 years"
+    },
+    {
+      "id": 85,
+      "slug": "certified-cyber-security-analyst-premium-edition-c3sa",
+      "title": "Certified Cyber Security Analyst (Premium Edition)",
+      "abbreviation": "C3SA",
+      "description": "The Certified Cyber Security Analyst Premium On-Demand Course is designed for beginners, providing comprehensive training in fundamental cybersecurity techniques. Gain lifetime access to expert-led instruction and practical exercises to kickstart your career in cybersecurity.",
+      "image": "https://cyberdefenders.org/media/certifications/c3sa.png",
+      "url": "https://cyberwarfare.live/product/cyber-security-analyst-c3sa/",
+      "cost": "$59",
+      "training_included": true,
+      "number_of_attempts": 100,
+      "job_roles_titles": [
+        "SOC Analyst",
+        "Cybersecurity Enthusiasts",
+        "Information Security Analysts",
+        "Cloud Security",
+        "Information Security"
+      ],
+      "cert_type": "infoSec",
+      "total_votes": 2,
+      "market_presence": 0.33,
+      "cost_effectiveness": 3.5,
+      "skill_level": "Beginner",
+      "quality": 2.0,
+      "satisfaction": 2.5,
+      "provider": {
+        "name": "Cyberwarfare Labs",
+        "url": "https://cyberwarfare.live/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Introduction to Cyber Security",
+        "Web Application Basics & Exploitation",
+        "Network Basics & Exploitation",
+        "Operating System Basics & Exploitation",
+        "Cloud Basics & Penetration Testing",
+        "Security Operation Basics"
+      ],
+      "requirements_data": {
+        "knowledge": "Understanding of OS, Web & Network-based attacks, Understanding of SIEM solutions, Familiarity with command line basics",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "Quiz based exam",
+        "duration": null,
+        "report_required": false
+      },
+      "valid_for": "Lifetime"
+    },
+    {
+      "id": 86,
+      "slug": "wireshark-certified-network-analyst-wcna",
+      "title": "Wireshark Certified Network Analyst",
+      "abbreviation": "WCNA",
+      "description": "WCNA Certification (formerly referred to as the Wireshark Certified Network Analyst program) proves an individual's in-depth knowledge of TCP/IP and network/protocol analysis for troubleshooting communications, network optimization, network forensics, and security.",
+      "image": "https://cyberdefenders.org/media/certifications/output-onlinepngtools_1.png",
+      "url": "https://www.wcnacertification.com/",
+      "cost": "$299",
+      "training_included": false,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "Network security analyst",
+        "Network forensics specialist",
+        "Network Security Engineer",
+        "Network Administrator",
+        "Security analysts"
+      ],
+      "cert_type": "blue",
+      "total_votes": 1,
+      "market_presence": 0.02,
+      "cost_effectiveness": 2.0,
+      "skill_level": "Beginner",
+      "quality": 2.0,
+      "satisfaction": 2.0,
+      "provider": {
+        "name": "Chappell University",
+        "url": "https://www.chappell-university.com/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Network security",
+        "Network Protocol Analysis",
+        "TCP/IP Fundamentals",
+        "Network Troubleshooting",
+        "Packet Analysis",
+        "Wireshark Tool Proficiency"
+      ],
+      "requirements_data": {
+        "knowledge": "Understanding of TCP/IP and basic networking concepts",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "true/false and multiple choice Questions",
+        "duration": "2 hours",
+        "report_required": false
+      },
+      "valid_for": "3 years"
+    },
+    {
+      "id": 82,
+      "slug": "certified-master-cyber-threat-analyst-cmcta",
+      "title": "Certified Master Cyber Threat Analyst",
+      "abbreviation": "CMCTA",
+      "description": "Individuals who pass all four certification exams C)VA, C)PEH, C)TIA and C)CSA will earn the Master Cyber Threat Analyst Certification. Persons with this certification have demonstrated the knowledge needed to proactively monitor, detect, prevent, and mitigate threats as they arise in real time. They have also shown that they can set up and deploy analysis tools, intrusion detection tools, syslog servers, SIEMs to find and in many cases, prevent, exploits. They will have demonstrated an ability to detect cyber attacks and deploy blue team tactics to help prevent future attacks. Plus an ability to effectively communicate suggestions and procedures.",
+      "image": "https://cyberdefenders.org/media/certifications/cmsta.png",
+      "url": "https://mile2.com/master-certifications/",
+      "cost": "$3180",
+      "training_included": false,
+      "number_of_attempts": 0,
+      "job_roles_titles": [],
+      "cert_type": "blue",
+      "total_votes": 1,
+      "market_presence": 0.02,
+      "cost_effectiveness": 2.0,
+      "skill_level": "Intermediate",
+      "quality": 2.0,
+      "satisfaction": 2.33,
+      "provider": { "name": "Mile2", "url": "https://mile2.com", "image": "" },
+      "domains_covered_titles": [],
+      "requirements_data": {
+        "knowledge": "",
+        "work_experience": "",
+        "prior_courses_and_certifications": ""
+      },
+      "exam_details_data": {
+        "format": "",
+        "duration": "",
+        "report_required": false
+      },
+      "valid_for": null
+    },
+    {
+      "id": 19,
+      "slug": "csa-council",
+      "title": "The Certified SOC Analyst",
+      "abbreviation": "CSA",
+      "description": "CSA validates the skills required to work in a Security Operations Center (SOC). It assesses proficiency in SOC operations, log management, SIEM deployment, incident detection, and response.",
+      "image": "https://cyberdefenders.org/media/certifications/the-certified-soc-analyst-csa.webp",
+      "url": "https://www.eccouncil.org/train-certify/certified-soc-analyst-csa/",
+      "cost": "$550",
+      "training_included": false,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "SOC Analyst",
+        "Security Analyst",
+        "Cyber Security Analyst",
+        "Incident Responder",
+        "Information Assurance Analyst"
+      ],
+      "cert_type": "blue",
+      "total_votes": 7,
+      "market_presence": 0.15,
+      "cost_effectiveness": 1.8571428571428572,
+      "skill_level": "Beginner",
+      "quality": 2.0,
+      "satisfaction": 2.1,
+      "provider": {
+        "name": "EC-Council",
+        "url": "https://www.eccouncil.org/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Network and Traffic Analysis",
+        "Threat Intelligence and Detection",
+        "Event and Log Analysis",
+        "Incident Response and Management"
+      ],
+      "requirements_data": {
+        "knowledge": "Basic understanding of networking and security concepts",
+        "work_experience": "one year of work experience in the Network Admin/Security domain (waived if an official EC-Council training course is completed)",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "Multiple Choice",
+        "duration": "3 hours",
+        "report_required": false
+      },
+      "valid_for": "3 Years"
+    },
+    {
+      "id": 24,
+      "slug": "pen-103-klcp",
+      "title": "Kali Linux Certified Professional",
+      "abbreviation": "KLCP",
+      "description": "KLCP validates proficiency with the Kali Linux distribution, focusing on managing, customizing, and securing the operating system for penetration testing. It assesses skills in package management, system configuration, and creating custom Kali Linux environments.",
+      "image": "https://cyberdefenders.org/media/certifications/kali-linux-certified-professional-klcp.webp",
+      "url": "https://www.offsec.com/courses/pen-103/",
+      "cost": "$799",
+      "training_included": true,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "Penetration Tester",
+        "System Administrator",
+        "IT Security Specialist",
+        "Security Analyst",
+        "Network Administrator"
+      ],
+      "cert_type": "red",
+      "total_votes": 1,
+      "market_presence": 0.06,
+      "cost_effectiveness": 2.0,
+      "skill_level": "Novice",
+      "quality": 2.0,
+      "satisfaction": 1.67,
+      "provider": {
+        "name": "OffSec",
+        "url": "https://www.offsec.com/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Installing Kali Linux",
+        "Configuring, Securing, and Monitoring Kali Linux",
+        "Advanced Usage and Enterprise Integration"
+      ],
+      "requirements_data": {
+        "knowledge": "Basic Linux proficiency and understanding of Kali Linux",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "Multiple choice",
+        "duration": "90 minutes",
+        "report_required": false
+      },
+      "valid_for": "No expiration date"
+    },
+    {
+      "id": 97,
+      "slug": "certified-red-team-analyst-crta",
+      "title": "Certified Red Team Analyst",
+      "abbreviation": "CRTA",
+      "description": "The Certified Red Team Analyst (CRTA) certification validates foundational skills in red teaming and offensive security, focusing on Active Directory exploitation, post-exploitation, and lateral movement. CRTA-certified professionals demonstrate the ability to simulate real-world adversary tactics, techniques, and procedures (TTPs) to enhance organizational security posture.",
+      "image": "https://cyberdefenders.org/media/certifications/certified_red_team_analyst.jpeg",
+      "url": "https://cyberwarfare.live/product/red-team-analyst-crta/",
+      "cost": "$99",
+      "training_included": true,
+      "number_of_attempts": 2,
+      "job_roles_titles": [
+        "Offensive Security Specialist",
+        "Red Team Analyst",
+        "penetration testers",
+        "Vulnerability Researcher"
+      ],
+      "cert_type": "red",
+      "total_votes": 1,
+      "market_presence": 0.06,
+      "cost_effectiveness": 2.0,
+      "skill_level": "Beginner",
+      "quality": 2.0,
+      "satisfaction": 2.0,
+      "provider": {
+        "name": "Cyberwarfare Labs",
+        "url": "https://cyberwarfare.live/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Red Team Attack Lifecycle",
+        "External Infrastructure Enumeration",
+        "Web & Network Exploitation",
+        "Active Directory Exploitation",
+        "Network Pivoting",
+        "Post-Exploitation Techniques",
+        "MITRE ATT&CK Framework",
+        "Enterprise Environment Assessment"
+      ],
+      "requirements_data": {
+        "knowledge": "Basic familiarity with penetration testing and command-line usage (Linux/Windows)",
+        "work_experience": "None",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "Flag-based, fully hands-on practical exam",
+        "duration": "24 hours",
+        "report_required": false
+      },
+      "valid_for": "LIfetime"
+    },
+    {
+      "id": 101,
+      "slug": "sc-200-microsoft-certified-security-operations-analyst-associate",
+      "title": "Security Operations Analyst Associate",
+      "abbreviation": "SC-200",
+      "description": "Professional certification for Security Operations Analysts who investigate, search for, and mitigate threats using Microsoft Sentinel, Microsoft Defender for Cloud, Microsoft 365 Defender, and third-party security products. Validates skills in threat hunting, incident response, and security operations.",
+      "image": "https://cyberdefenders.org/media/certifications/security-operations-analyst-associate-600x60016770587189825273072.webp",
+      "url": "https://learn.microsoft.com/en-us/certifications/exams/sc-200/",
+      "cost": "$165",
+      "training_included": false,
+      "number_of_attempts": 1,
+      "job_roles_titles": [
+        "Incident Responder",
+        "Threat Hunter",
+        "Security Engineer",
+        "Security Operations Center (SOC) Analyst"
+      ],
+      "cert_type": "blue",
+      "total_votes": 1,
+      "market_presence": 0.02,
+      "cost_effectiveness": 3.0,
+      "skill_level": "Beginner",
+      "quality": 2.0,
+      "satisfaction": 2.33,
+      "provider": {
+        "name": "Microsoft",
+        "url": "https://learn.microsoft.com/en-us/",
+        "image": ""
+      },
+      "domains_covered_titles": [
+        "Manage a security operations environment",
+        "Configure protections & detections",
+        "Manage incident response",
+        "Manage security threats"
+      ],
+      "requirements_data": {
+        "knowledge": "Familiarity with Microsoft 365, Azure cloud services, Windows, Linux, and mobile operating systems; proficiency in Kusto Query Language (KQL) and Microsoft security tools.",
+        "work_experience": "1-2 years in security operations or related roles recommended.",
+        "prior_courses_and_certifications": "None"
+      },
+      "exam_details_data": {
+        "format": "Proctored, multiple-choice, and scenario-based questions with interactive components",
+        "duration": "120 minutes",
+        "report_required": false
+      },
+      "valid_for": "1 year"
+    }
+  ]
+}
