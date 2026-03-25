@@ -1,3 +1,5 @@
+export type CertType = "blue" | "red" | "infoSec";
+
 export type Certification = {
   id: number;
   slug: string;
@@ -10,7 +12,7 @@ export type Certification = {
   training_included: boolean;
   number_of_attempts: number;
   job_roles_titles: string[];
-  cert_type: "blue" | "red" | "infoSec";
+  cert_type: CertType;
   total_votes: number;
   market_presence: number; // 0.0 to 1.0
   cost_effectiveness: number; // 1.0 to 5.0

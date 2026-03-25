@@ -31,6 +31,7 @@ export interface ScatterChartProps {
   yLabel?: string;
   xMax?: number;
   yMax?: number;
+  pointColor?: string;
 }
 
 const quadrantPlugin: Plugin<"scatter"> = {
@@ -121,6 +122,7 @@ export function Chart({
   yLabel = "SATISFACTION",
   xMax = 100,
   yMax = 100,
+  pointColor = "#4d77ff",
 }: ScatterChartProps) {
   // chartData & options are memoized to prevent unnecessary re-renders and improve performance.
   // as the chart can be complex and re-rendering can be expensive, especially with plugins and custom options.
@@ -131,7 +133,7 @@ export function Chart({
         {
           label: "Entities",
           data: data,
-          backgroundColor: "#4d77ff", // var(--primary)
+          backgroundColor: pointColor,
           borderColor: "#99aff5",
           borderWidth: 1,
           pointRadius: 6,
@@ -139,7 +141,7 @@ export function Chart({
         },
       ],
     };
-  }, [data]);
+  }, [data, pointColor]);
 
   const options: ChartOptions<"scatter"> = useMemo(() => {
     return {
