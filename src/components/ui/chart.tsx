@@ -23,6 +23,7 @@ export interface ChartDataPoint {
   y: number;
   label: string;
   tooltipContent?: string[];
+  originalData?: any;
 }
 
 export interface ScatterChartProps {
@@ -33,6 +34,7 @@ export interface ScatterChartProps {
   xMax?: number;
   yMax?: number;
   pointColor?: string;
+  onPointClick?: (point: ChartDataPoint) => void;
 }
 
 const quadrantPlugin: Plugin<"scatter"> = {
@@ -124,6 +126,7 @@ export function Chart({
   xMax = 100,
   yMax = 100,
   pointColor = "#4d77ff",
+  onPointClick,
 }: ScatterChartProps) {
   const chartContainerRef = useRef<HTMLDivElement>(null);
   const [isFullscreen, setIsFullscreen] = useState(false);
@@ -151,6 +154,14 @@ export function Chart({
     return {
       responsive: true,
       maintainAspectRatio: false,
+      onClick: (event, elements) => {
+        if (elements && elements.length > 0 && onPointClick) {
+          const dataIndex = elements[0].index;
+          if (data[dataIndex]) {
+            onPointClick(data[dataIndex]);
+          }
+        }
+      },
       layout: {
         padding: {
           top: 40,
@@ -239,7 +250,7 @@ export function Chart({
         },
       },
     };
-  }, [xLabel, yLabel, xMax, yMax]);
+  }, [xLabel, yLabel, xMax, yMax, onPointClick, data]);
 
   useEffect(() => {
     const handleFullscreenChange = () => {

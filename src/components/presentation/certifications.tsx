@@ -59,7 +59,7 @@ export function Certifications({
 
   return (
     <div className="flex flex-col gap-6 w-full">
-      <div className="flex flex-row items-center gap-5 ml-10 mr-10 z-10">
+      <div className="flex flex-row items-center max-sm:justify-center flex-wrap gap-5 ml-10 mr-10 z-10">
         <CertTypeTabs
           currentCertType={currentCertType}
           setCurrentCertType={setCurrentCertType}

@@ -16,6 +16,7 @@ To run the development server, use the following command:
 ```bash
 npm run dev
 ```
+Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
 
 ## Architecture
 
@@ -24,6 +25,7 @@ npm run dev
 ```
 ├── app
 │   ├── components
+│   │   ├── Chart.tsx
 │   │   ├── Chart.tsx
 │   │   └── Header.tsx
 │   ├── page.tsx
