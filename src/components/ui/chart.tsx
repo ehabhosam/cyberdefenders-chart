@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo } from "react";
+import { useMemo, useRef, useState, useEffect } from "react";
 import {
   Chart as ChartJS,
   LinearScale,
@@ -22,6 +22,7 @@ export interface ChartDataPoint {
   x: number;
   y: number;
   label: string;
+  tooltipContent?: string[];
 }
 
 export interface ScatterChartProps {
@@ -102,7 +103,7 @@ const pointLabelsPlugin: Plugin<"scatter"> = {
           const dataPoint = dataset.data[index] as any;
           if (dataPoint && dataPoint.label) {
             ctx.fillStyle = "#dce1e7"; // var(--foreground)
-            ctx.font = "10px sans-serif";
+            ctx.font = "14px sans-serif";
             ctx.textAlign = "center";
             ctx.textBaseline = "top";
 
@@ -124,6 +125,9 @@ export function Chart({
   yMax = 100,
   pointColor = "#4d77ff",
 }: ScatterChartProps) {
+  const chartContainerRef = useRef<HTMLDivElement>(null);
+  const [isFullscreen, setIsFullscreen] = useState(false);
+
   // chartData & options are memoized to prevent unnecessary re-renders and improve performance.
   // as the chart can be complex and re-rendering can be expensive, especially with plugins and custom options.
 
@@ -134,8 +138,8 @@ export function Chart({
           label: "Entities",
           data: data,
           backgroundColor: pointColor,
-          borderColor: "#99aff5",
-          borderWidth: 1,
+          borderColor: "#ffffff",
+          borderWidth: 2,
           pointRadius: 6,
           pointHoverRadius: 8,
         },
@@ -149,8 +153,8 @@ export function Chart({
       maintainAspectRatio: false,
       layout: {
         padding: {
-          top: 20,
-          right: 20,
+          top: 40,
+          right: 40,
           bottom: 20,
           left: 20,
         },
@@ -161,8 +165,12 @@ export function Chart({
         },
         tooltip: {
           callbacks: {
+            title: () => "",
             label: (context) => {
               const point = context.raw as ChartDataPoint;
+              if (point.tooltipContent) {
+                return point.tooltipContent;
+              }
               return `${point.label}: (${point.x}, ${point.y})`;
             },
           },
@@ -171,6 +179,11 @@ export function Chart({
           bodyColor: "#dce1e7",
           borderColor: "#334155", // var(--border)
           borderWidth: 1,
+          padding: 12,
+          bodyFont: {
+            size: 14,
+          },
+          displayColors: false,
         },
       },
       scales: {
@@ -228,8 +241,71 @@ export function Chart({
     };
   }, [xLabel, yLabel, xMax, yMax]);
 
+  useEffect(() => {
+    const handleFullscreenChange = () => {
+      setIsFullscreen(!!document.fullscreenElement);
+    };
+
+    document.addEventListener("fullscreenchange", handleFullscreenChange);
+    return () => {
+      document.removeEventListener("fullscreenchange", handleFullscreenChange);
+    };
+  }, []);
+
+  const toggleFullscreen = () => {
+    if (!document.fullscreenElement) {
+      chartContainerRef.current?.requestFullscreen().catch((err) => {
+        console.error(
+          `Error attempting to enable fullscreen mode: ${err.message}`,
+        );
+      });
+    } else {
+      document.exitFullscreen();
+    }
+  };
+
   return (
-    <div className={cn("relative w-full h-200 bg-background", className)}>
+    <div
+      ref={chartContainerRef}
+      className={cn(
+        "relative w-full bg-background",
+        isFullscreen ? "h-screen p-4" : "h-200",
+        className,
+      )}
+    >
+      <button
+        onClick={toggleFullscreen}
+        className="absolute top-4 right-4 z-10 p-2 bg-slate-800/80 hover:bg-slate-700/80 rounded text-slate-200 transition-colors"
+        title={isFullscreen ? "Exit Fullscreen" : "Enter Fullscreen"}
+      >
+        {isFullscreen ? (
+          <svg
+            width="20"
+            height="20"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            strokeWidth="2"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+          >
+            <path d="M8 3v3a2 2 0 0 1-2 2H3m18 0h-3a2 2 0 0 1-2-2V3m0 18v-3a2 2 0 0 1 2-2h3M3 16h3a2 2 0 0 1 2 2v3" />
+          </svg>
+        ) : (
+          <svg
+            width="20"
+            height="20"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            strokeWidth="2"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+          >
+            <path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3" />
+          </svg>
+        )}
+      </button>
       <Scatter
         data={chartData}
         options={options}

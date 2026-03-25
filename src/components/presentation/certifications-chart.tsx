@@ -18,6 +18,10 @@ export function CertificationsChart({
     x: 5 + cert.market_presence * 90,
     y: 5 + (cert.satisfaction / 5) * 90 - 15, // 15 shift down to better fit the chart
     label: cert.abbreviation,
+    tooltipContent: [
+      `Certification: ${cert.abbreviation}`,
+      `Total Votes: ${cert.total_votes}`,
+    ],
   }));
 
   return (
